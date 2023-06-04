@@ -6,12 +6,16 @@
 @import "includes/header";
 @import "includes/footer";
 
-@import "index";
+@import "interests";
 
 h1, h2, h3, h4, h5, h6 {
   >img {
     vertical-align: text-top;
   }
+}
+
+h2 {
+  text-align: center;
 }
 
 a {

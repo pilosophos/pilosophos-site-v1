@@ -44,5 +44,14 @@
 
     @extend .mt-md-0;
     @extend .mt-3;
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+
+      a {
+        text-decoration: none;
+      }
+    }
   }
 }
