@@ -1,0 +1,10 @@
+@import "bootstrap/bootstrap";
+
+.footer {
+  @extend .mb-3;
+
+  .badges {
+    @extend .text-md-end;
+    text-align: center;
+  }
+}
