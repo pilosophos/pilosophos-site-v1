@@ -19,5 +19,20 @@ a {
 
 .icon-32 {
   height: 32px;
-  width: 32px;
+}
+
+.icon-16 {
+  height: 16px;
+}
+
+figure {
+  @extend .p-2;
+  
+  display: table;
+
+  figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    text-align: center;
+  }
 }
