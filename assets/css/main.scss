@@ -1,0 +1,23 @@
+---
+---
+@import "overrides/colors";
+@import "bootstrap/bootstrap";
+
+@import "includes/header";
+
+@import "index";
+
+h1, h2, h3, h4, h5, h6 {
+  >img {
+    vertical-align: text-top;
+  }
+}
+
+a {
+  text-decoration-style: dotted;
+}
+
+.icon-32 {
+  height: 32px;
+  width: 32px;
+}

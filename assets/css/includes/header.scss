@@ -1,0 +1,48 @@
+@import "bootstrap/bootstrap";
+
+.header {
+  @extend .container;
+  @extend .mt-3;
+  
+  .logo {
+    display: flex;
+    align-items: center;
+
+    @extend .justify-content-md-start;
+    justify-content: center; 
+    
+    img {
+      height: 5em;
+    }
+    
+    .logo-text {
+      @extend .ms-3;
+  
+      text-align: center;
+      width: fit-content;
+  
+      h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+        margin-bottom: 0;
+      }
+  
+      .tagline {
+        font-weight: 375;
+        text-transform: uppercase;
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+
+    @extend .justify-content-md-start;
+    justify-content: center; 
+
+    @extend .mt-md-0;
+    @extend .mt-3;
+  }
+}

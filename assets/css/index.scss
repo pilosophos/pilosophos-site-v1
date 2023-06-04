@@ -1,0 +1,23 @@
+.homepage {
+  .gc-divider {
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+
+    &:after {
+      padding: 0 4px;
+      position: relative;
+      top: -1.1em;
+      background-color: $body-bg;
+      font-size: small;
+    }
+  }
+
+  .gc-begin:after {
+    content: "BEGIN GEEK CODE BLOCK (Version: 3.12)";
+  }
+
+  .gc-end:after {
+    content: "END GEEK CODE BLOCK";
+  }
+}

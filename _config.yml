@@ -1,0 +1,5 @@
+title: Pilosophos' Circle
+
+sass:
+    load_paths:
+        - assets/css
