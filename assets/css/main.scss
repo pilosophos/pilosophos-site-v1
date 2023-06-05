@@ -7,6 +7,7 @@
 @import "includes/footer";
 
 @import "interests";
+@import "homelab";
 
 h1, h2, h3, h4, h5, h6 {
   >img {
@@ -44,4 +45,8 @@ figure {
 
 .text-smallcaps {
   font-variant: small-caps;
+}
+
+main>section {
+  @extend .mb-5;
 }

@@ -1,0 +1,29 @@
+.homelab {
+  .homelab-diagram {
+    @extend .mb-3;
+
+    white-space: pre;
+    line-height: 1.3em;
+    width: min-content;
+    margin: 0 auto;
+  }
+
+  .specs {
+    ul {
+      padding-left: 1em;
+    }
+
+    >div {
+      @extend .row;
+
+      >dt {
+        @extend .col;
+        @extend .col-md-2;
+      }
+
+      >dd {
+        @extend .col;
+      }
+    }
+  }
+}
