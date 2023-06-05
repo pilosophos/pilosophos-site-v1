@@ -50,6 +50,14 @@
       a {
         text-decoration: none;
       }
+
+      li {
+        @extend .mx-1;
+        @extend .mx-md-0;
+        
+        display: inline-block;
+        @extend .d-md-block;
+      }
     }
   }
 }
