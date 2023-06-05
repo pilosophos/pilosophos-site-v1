@@ -6,8 +6,8 @@
 @import "includes/header";
 @import "includes/footer";
 
-@import "interests";
 @import "homelab";
+@import "index";
 
 h1, h2, h3, h4, h5, h6 {
   >img {
@@ -49,4 +49,53 @@ figure {
 
 main>section {
   @extend .mb-5;
+}
+
+.ascii-art {
+  font-family: monospace;
+  white-space: pre;
+  line-height: 1.3em;
+}
+
+dl {
+  ul {
+    padding-left: 1em;
+  }
+
+  >div {
+    @extend .row;
+
+    >dt {
+      @extend .col;
+      @extend .col-md-3;
+    }
+
+    >dd {
+      @extend .col;
+    }
+  }
+}
+
+.geek-code {
+  .gc-divider {
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+
+    &:after {
+      padding: 0 4px;
+      position: relative;
+      top: -1.1em;
+      background-color: $body-bg;
+      font-size: small;
+    }
+  }
+
+  .gc-begin:after {
+    content: "BEGIN GEEK CODE BLOCK (Version: 3.12)";
+  }
+
+  .gc-end:after {
+    content: "END GEEK CODE BLOCK";
+  }
 }
