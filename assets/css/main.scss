@@ -83,3 +83,15 @@ main>section {
     content: "END GEEK CODE BLOCK";
   }
 }
+
+.indent { 
+  text-indent: 2em;
+}
+
+.writing {
+  font-size: larger;
+
+  p {
+    @extend .mb-5;
+  }
+}
