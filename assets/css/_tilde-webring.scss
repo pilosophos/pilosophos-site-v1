@@ -1,0 +1,32 @@
+#tilde_ring {
+  $tilde-ring-color: rgba($color: white, $alpha: 0.7);
+
+  @extend .flex-md-row;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  
+  background-color: $tilde-ring-color;
+  color: $body-bg;
+  
+  text-align: center;
+  font-variant: small-caps;
+  text-transform: lowercase;
+
+  a {
+    @extend .px-2;
+    background-color: $body-bg;
+    color: $tilde-ring-color;
+    border: 1px solid $tilde-ring-color;
+    display: inline-block;
+    text-decoration: none;
+
+    &:hover {
+      background-color: lighten($color: $body-bg, $amount: 10);
+    }
+  }
+
+  .label {
+    @extend .px-2;
+  }
+}
