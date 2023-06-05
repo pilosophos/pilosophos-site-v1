@@ -1,7 +1,7 @@
 #tilde_ring {
   $tilde-ring-color: rgba($color: white, $alpha: 0.7);
 
-  @extend .flex-md-row;
+  @extend .flex-lg-row;
   display: flex;
   flex-direction: column;
   width: fit-content;
