@@ -70,10 +70,13 @@ layout: default
         <dt>CPU</dt> <dd>Intel i7-4710HQ</dd>
       </div>
       <div>
-        <dt>GPU (integrated)</dt> <dd>Intel 4th Gen Core Processor</dd>
-      </div>
-      <div>
-        <dt>GPU</dt> <dd>NVIDIA GeForce GTX 860M</dd>
+        <dt>GPU</dt>
+        <dd>
+          <ul>
+            <li>NVIDIA GeForce GTX 860M</li>
+            <li>Intel HD Graphics 4600</li>
+          </ul>
+        </dd>
       </div>
       <div>
         <dt>RAM</dt> <dd>8 GB</dd>
@@ -97,15 +100,23 @@ layout: default
       <img src="assets/images/icons/laptop.png" role="presentation" class="icon-32">
       Travel Computer: Lenovo Thinkpad X260
     </h3>
-    <p>A trusty Thinkpad that's small enough to carry around. I used to have a L420 which was massive and broke my back every time I had to lug it around.</p>
+    <p>A trusty Thinkpad that's small enough to carry around. I used to have an L420 which was massive and broke my back every time I had to lug it around. Shame it doesn't have the old style keyboards which were way nicer to type on.</p>
   </section>
 
   <section>
     <h3>
       <img src="assets/images/icons/modem-4.png" role="presentation" class="icon-32">
-      3D printer server: Samsung Galaxy S4
+      3D printer server: Samsung Galaxy S4 (+Ender 3)
     </h3>
-    <p>It runs octo4a, an Android port of Octoprint, and is connected to an Ender 3 I found in the trash.</p>
+    <p>
+      I found an Ender 3 in the trash in my apartment building, believe it or not. It had a BL Touch bed leveling probe (incorrectly wired) and the power supply set to the wrong voltage. It hadn't been used in a long time, judging by the dust all around it. Turns out it works if you just flip the voltage switch, and swap a couple wires on the BL Touch cable.
+    </p>
+    <p>
+      The funny thing is, just the month before, I thought I'd get into 3D printing by getting a secondhand MP Mini Delta. So if I'd just waited a month, I wouldn't have spent all that extra for an inferior printer that I'm not using anymore.
+    </p>
+    <p>
+      The printer that runs the Ender 3 is Galaxy S4 with <a href="https://github.com/feelfreelinux/octo4a">octo4a</a>, a port of OctoPrint for Android. I used to use the phone as a daily driver, but it feels pretty sluggish now even with optimized LineageOS on it.
+    </p>
   </section>
   
   <section>
@@ -113,16 +124,21 @@ layout: default
       <img src="assets/images/icons/standby_monitor_moon-0.png" role="presentation" class="icon-32">
       Retired hardware
     </h3>
-    <h4>
-      <img src="assets/images/icons/laptop.png" role="presentation" class="icon-32">
-      Thinkpad L420
-    </h4>
-    lorem ipsum
 
-    <h4>
-      <img src="assets/images/icons/computer_explorer-3.png" role="presentation" class="icon-32">
-      HP something or other desktop
-    </h4>
-    Has a SAS drive and Dell PERC H310 flashed to IT mode.
+    <section>
+      <h4>
+        <img src="assets/images/icons/laptop.png" role="presentation" class="icon-32">
+        Thinkpad L420
+      </h4>
+      <p>Before I got into homelabbing (and Linux), this used to be my only computer. It's heavy and runs Windows. I still boot it up every so often if there's something I need a real Windows install for, or if I need to read CDs.</p>
+    </section>
+
+    <section>
+      <h4>
+        <img src="assets/images/icons/computer_explorer-3.png" role="presentation" class="icon-32">
+        Home server: HP Desktop
+      </h4>
+      <p>An HP desktop workstation I got at a surplus store, which was my home server before I started living alone. Has a 4TB SAS drive and Dell PERC H310 flashed to IT mode. Since I live in a studio now and the server is very loud (especially with the SAS drive), I haven't used it since I moved.</p>
+    </section>
   </section>
 </main>
