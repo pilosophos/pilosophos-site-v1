@@ -1,0 +1,24 @@
+/**
+  two-column definition list where the <dt> column has some Bootstrap column size
+**/
+@for $i from 1 through 12 {
+  .dl-#{$i} {
+    ul {
+      padding-left: 1em;
+      margin-bottom: 0;
+    }
+
+    >div {
+      @extend .row;
+
+      >dt {
+        @extend .col;
+        @extend .col-md-#{$i};
+      }
+
+      >dd {
+        @extend .col;
+      }
+    }
+  }
+}

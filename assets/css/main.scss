@@ -6,6 +6,8 @@
 @import "includes/header";
 @import "includes/footer";
 
+@import "definition-list";
+
 @import "homelab";
 @import "index";
 
@@ -55,26 +57,6 @@ main>section {
   font-family: monospace;
   white-space: pre;
   line-height: 1.3em;
-}
-
-dl {
-  ul {
-    padding-left: 1em;
-    margin-bottom: 0;
-  }
-
-  >div {
-    @extend .row;
-
-    >dt {
-      @extend .col;
-      @extend .col-md-2;
-    }
-
-    >dd {
-      @extend .col;
-    }
-  }
 }
 
 .geek-code {
