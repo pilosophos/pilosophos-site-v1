@@ -13,11 +13,11 @@ A cold male voice resonates though the air in three languages. "The E train to T
 
 An absentminded faerie whizzes by, holding a smartwatch like it was a tablet, nearly missing a man's face. "Hey, watch it, Recyclable!" the man says. "Up yours too, asshole!" the faerie shouts back. The crowd around them furrows their brows and give the two of them dirty looks. You can almost feel the social credit going down.
 
-A foreigner rushes into the platform and hurriedly asks a lady in a blue velvet skirt if he made it in time for the E train. She has a soft, delicate voice. You swear you've seen her in a dream before. The blaring morning alarm wrenched away all the memories of the dream except the warmth and gentleness of her smile. The resemblance is probably just a coincidence, but you can't help but wonder what kind of person she is. Does she like skydiving as much as her dream self said she did? Is her favourite colour really blue? Is she a tea girl or a coffee girl?
+A foreigner rushes into the platform and hurriedly asks a lady in a blue velvet skirt if he made it in time for the E train. She has a soft, delicate voice. You swear you've seen her in a dream before. The blaring morning alarm wrenched away all the memories of the dream except the warmth and gentleness of her smile. The resemblance is probably just a coincidence, but you can't help but wonder what kind of person she is. Does she like skydiving as much as her dream self said she did? Is her favorite color really blue? Is she a tea girl or a coffee girl?
 
 A tall, scruffy elf struggles with a lighter and a pipe in front of the No Smoking sign. They say elves are naturally beautiful, but the grime on his face and the tatters on his jacket say otherwise. The sparks consume the last dregs of his lighter fluid, and he slumps down to the floor in defeat.
 
-A sharply-dressed businesswoman stares into the crowd, looking angry. Suddenly she raises her voice to chew someone out you can't see, and the scruffy elf's head jolts up in fright. She notices him, throws a look of disgust down in his direction, and stares ahead again. "If our profit margins are down again this quarter, heads are going to roll!" You realise now she's wearing a wireless earpiece.
+A sharply-dressed businesswoman stares into the crowd, looking angry. Suddenly she raises her voice to chew someone out you can't see, and the scruffy elf's head jolts up in fright. She notices him, throws a look of disgust down in his direction, and stares ahead again. "If our profit margins are down again this quarter, heads are going to roll!" You realize now she's wearing a wireless earpiece.
 
 A draft by the tracks signals the arrival of the E train. A piece of trash drifts across the floor, bobbing and weaving between a forest of legs. An elderly man clutches his cane tighter as though it were the only thing rooting him to the ground. The headlights of the train project onto the walls from the subway tunnel. Louder. Closer. "The E train to Technology Park 15 is now arriving. Stay behind the red line."
 
@@ -25,7 +25,7 @@ A small crowd pours out of the train, and another crowd pours in to replace them
 
 The lady in the blue velvet skirt stands just outside the window. The commuters rushing past her jostle her auburn hair to and fro. Did she spend long on her hair this morning?
 
-A middle-aged woman races down the stairs against the people going up, a mass of colourful shopping bags streaming behind her.
+A middle-aged woman races down the stairs against the people going up, a mass of colorful shopping bags streaming behind her.
 "Hey!" A man with a robotic arm shouts and holds his soda aloft to keep it from spilling as she rushes by.
 
 <p class="indent">"Ouch!" A bag hits a small girl in the head. Her mother crouches down to hug her close.</p>
