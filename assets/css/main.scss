@@ -25,6 +25,13 @@ h2 {
 
 a {
   text-decoration-style: dotted;
+
+  &:hover {
+    .icon-32, .icon-16 {
+      position: relative;
+      top: -1px;
+    }
+  }
 }
 
 .icon-32 {
