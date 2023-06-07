@@ -15,7 +15,7 @@ layout: default
         <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation" class="icon-32">
       </a>
       <div>
-        <a href="{{ piece.url }}">{{ piece.title }}</a>
+        <a href="{{ piece.url | relative_url }}">{{ piece.title }}</a>
         <p>{{ piece.description }}</p>
       </div>
     </li>
