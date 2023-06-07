@@ -10,8 +10,16 @@
 </head>
 <body>
   {% include header.html %}
-  
-  <main class="container writing">{{ content }}</main>
+
+  <div class="container">
+    <nav class="mb-3">
+      <a href="{{ '/writing.html' | relative_url }}">
+        <img src="{{ '/assets/images/icons/tiny/winrep-0.png' | relative_url }}" role="presentation" class="icon-16">
+        Back to writing index
+      </a>
+    </nav>
+    <main class="writing-index">{{ content }}</main>
+  </div>
 
   {% include footer.html %}
 </body>

@@ -1,5 +1,9 @@
 title: Pilosophos' Circle
 
+collections:
+    writing:
+        output: true
+
 sass:
     load_paths:
         - assets/css

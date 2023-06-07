@@ -1,0 +1,24 @@
+---
+title: Writing
+layout: default
+---
+<main class="container writing-index">
+  <h2>
+    <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation">
+    Writing
+  </h2>
+
+  <ol class="writing-list">
+  {% for piece in site.writing %}
+    <li>
+      <a href="{{ piece.url }}" class="icon-link">
+        <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation" class="icon-32">
+      </a>
+      <div>
+        <a href="{{ piece.url }}">{{ piece.title }}</a>
+        <p>{{ piece.description }}</p>
+      </div>
+    </li>
+  {% endfor %}
+  </ol>
+</main>

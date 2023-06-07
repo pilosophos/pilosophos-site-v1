@@ -11,10 +11,11 @@
 
 @import "homelab";
 @import "index";
+@import "writing";
 
 h1, h2, h3, h4, h5, h6 {
   >img {
-    vertical-align: text-top;
+    vertical-align: text-bottom;
   }
 }
 
@@ -88,10 +89,8 @@ main>section {
   text-indent: 2em;
 }
 
-.writing {
-  font-size: larger;
-
-  p {
-    @extend .mb-5;
+nav {
+  a {
+    text-decoration: none;
   }
 }
