@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <title>{{ page.title }} | Pilosophos' Circle</title>
+</head>
+<body>
+  {% include header.html %}
+
+  {% if site.url == "https://tilde.town" or jekyll.environment == "development" %}
+    {{ content }}
+  {% else %}
+    <main class="container">
+      <h2>
+        Town goodies
+      </h2>
+      <p class="lead">The town goodies are only available from the <a href="{{ 'https://tilde.town/~pilosophos' | append: page.url }}">tilde.town</a> version of my site!</p>
+    </main>
+  {% endif %}
+
+  {% include footer.html %}
+</body>
+</html>

@@ -1,0 +1,23 @@
+---
+title: Botany
+layout: town
+---
+<main class="container botany">
+  <tilde-botany plant="/special/town/pilosophos_plant_data.json" template="botany-template" class="botany-plant" />
+</main>
+
+<template id="botany-template">
+  <div class="botany-art">
+    <p data-show="art"></p>
+  </div>
+  <div class="botany-info">
+    <h3 data-show="description"></h3>
+    <dl class="dl-2">
+      <div><dt>Water</dt> <dd><span class="water-meter" data-show="water-meter"></span> <span data-show="water"></span>%</dd></div>
+      <div><dt>Age</dt> <dd data-show="age"></dd></div>
+      <div><dt>Score</dt> <dd data-show="score"></dd></div>
+      <div><dt>Generation</dt> <dd data-show="generation"></dd></div>
+    </dl>
+  </div>
+</template>
+<script src="/assets/js/botany.js"></script>

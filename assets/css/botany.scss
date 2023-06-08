@@ -1,0 +1,26 @@
+.botany {
+  .botany-plant {
+    @extend .row;
+    
+    .botany-art {
+      @extend .col;
+      @extend .ascii-art;
+
+      display: flex;
+      justify-content: center;
+    }
+
+    .botany-info {
+      @extend .col;
+
+      h3 {
+        text-align: left;
+      }
+
+      .water-meter {
+        letter-spacing: -1px;
+        margin-right: .5em;
+      }
+    }
+  }
+}

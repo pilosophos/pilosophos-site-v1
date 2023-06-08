@@ -3,6 +3,10 @@
 **/
 @for $i from 1 through 12 {
   .dl-#{$i} {
+    @extend .container-fluid;
+
+    padding: 0;
+  
     ul {
       padding-left: 1em;
       margin-bottom: 0;
