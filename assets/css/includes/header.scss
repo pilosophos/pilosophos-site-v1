@@ -10,7 +10,7 @@
     justify-content: center; 
     
     img {
-      height: 5em;
+      height: 4em;
     }
     
     .logo-text {
@@ -46,13 +46,21 @@
     ul {
       list-style: none;
       padding-left: 0;
+      display: flex;
+      flex-wrap: wrap;
+      column-gap: 1em;
+      row-gap: 1em;
 
       li {
         @extend .mx-1;
         @extend .mx-lg-0;
         
-        display: inline-block;
-        @extend .d-lg-block;
+        display: block;
+        white-space: nowrap;
+
+        .icon-16 {
+          margin-right: .15em;
+        }
       }
     }
   }
