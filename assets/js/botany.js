@@ -50,7 +50,8 @@ class Botany extends HTMLDivElement {
       this.setDisplayIfExists(`[data-show='${key}']`, value);
     }
 
-    const waterPercentage = Math.max(0, Math.round((1 - ((Date.now()/1000) - plant).last_watered) / SECONDS_PER_DAY)*100);
+    let waterPercentage = Math.round((1 - ((Date.now()/1000) - plant.last_watered) / SECONDS_PER_DAY)*100);
+    waterPercentage = Math.max(0, waterPercentage);
     this.setDisplayIfExists(`[data-show='water']`, waterPercentage);
     
     const fullBars = Math.round(waterPercentage/10);
