@@ -1,3 +1,8 @@
+/**
+ * ~pilosophos' modular botany plant rendering script
+ * http://tilde.town/~pilosophos/town/botany.html
+ */
+
 DEFAULT_ART_BASE_URL = "https://raw.githubusercontent.com/jifunks/botany/master/art/"
 SECONDS_PER_DAY = 86400;
 

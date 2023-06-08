@@ -2,11 +2,23 @@
 title: Town goodies
 layout: town
 ---
-{% if site.url == "https://tilde.town" %}
-
 <main class="container">
   <h2>
+    <img src="{{ '/assets/images/icons/address_book_home.png' | relative_url }}" class="icon-32" role="presentation">
     Town goodies
   </h2>
-  <p class="lead">Test</p>
+
+  <p class="lead">These are the special goodies only available on the tilde.town version of my site!</p>
+
+  <ol class="big-nav">
+    <li>
+      <a href="{{ '/town/botany.html' | relative_url }}" class="icon-link">
+        <img src="{{ '/assets/images/icons/tree-0.png' | relative_url }}" role="presentation" class="icon-32">
+      </a>
+      <div>
+        <a href="{{ '/town/botany.html' | relative_url }}">Botany</a>
+        <p>Look at my botany plant (and get your own HTML botany widget)</p>
+      </div>
+    </li>
+  </ol>
 </main>

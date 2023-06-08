@@ -1,0 +1,21 @@
+.big-nav {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    @extend .mb-3;
+    display: flex;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    .icon-link {
+      @extend .pe-2;
+
+      img {
+        margin-top: .3em;
+      }
+    }
+  }
+}
