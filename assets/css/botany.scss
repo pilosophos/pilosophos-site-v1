@@ -1,6 +1,10 @@
 .botany {
   .botany-plant {
     @extend .row;
+    @extend .mb-5;
+    
+    @extend .flex-md-row;
+    flex-direction: column;
     
     .botany-art {
       @extend .col;
