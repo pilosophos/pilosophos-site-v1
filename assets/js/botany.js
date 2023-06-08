@@ -16,7 +16,7 @@ class Botany extends HTMLDivElement {
 
   async fetchPlant() {
     const jsonUrl = this.getAttribute("plant");
-    const res = await fetch(jsonUrl)
+    const res = await fetch(jsonUrl, {cache: "no-cache"})
     return await res.json();
   }
 
