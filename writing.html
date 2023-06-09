@@ -11,7 +11,7 @@ layout: default
   <ol class="writing-list">
   {% for piece in site.writing %}
     <li>
-      <a href="{{ piece.url }}" class="icon-link">
+      <a href="{{ piece.url | relative_url }}" class="icon-link">
         <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation" class="icon-32">
       </a>
       <div>
