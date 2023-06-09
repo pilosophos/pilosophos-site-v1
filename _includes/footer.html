@@ -2,7 +2,7 @@
   <hr>
   <div class="row">
     <div class="col">
-      {% if site.url == "https://tilde.town" %}
+      {% if site.url == "https://tilde.town" or jekyll.environment == "development" %}
         {% include tilde-webring.html %}
       {% endif %}
     </div>
