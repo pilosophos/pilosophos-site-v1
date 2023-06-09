@@ -22,11 +22,11 @@ layout: town
       </p>
       <p>
         Then put this somewhere in your page and change the <code>plant</code> attribute to the URL of your plant's json file. This renders your plant and its info. <span class="text-muted">(You can actually have an unlimited number of these and even point them all to different plants, if you really wanted.)</span>
-        <pre>&lt;tilde-botany plant="[url_of_your_plant_data.json]" template="botany-template"&gt;&lt;/tilde-botany&gt;</pre>
+        <pre class="code">&lt;tilde-botany plant="[url_of_your_plant_data.json]" template="botany-template"&gt;&lt;/tilde-botany&gt;</pre>
       </p>
       <p>
         Finally, add the following code to your webpage just before the <code>&lt;body&gt;</code> tag. Any tag that has an attribute like <code>data-show="value"</code> will have its text content replaced by the corresponding value. You can use all of them, or just the ones you want.
-        <pre>
+        <pre class="code">
 &lt;template id="botany-template"&gt;
   &lt;pre data-show="art"&gt;&lt;/pre&gt;
   &lt;dl&gt;
@@ -45,8 +45,7 @@ layout: town
     &lt;dt&gt;water meter&lt;/dt&gt;  &lt;dd data-show="water-meter"&gt;&lt;/dd&gt;
   &lt;/dl&gt;
 &lt;/template&gt;
-&lt;script src="{{ 'https://tilde.town/~pilosophos/assets/js/botany.js' | relative_url }}"&gt;&lt;/script&gt;
-        </pre>
+&lt;script src="{{ 'https://tilde.town/~pilosophos/assets/js/botany.js' | relative_url }}"&gt;&lt;/script&gt;</pre>
       </p>
     </details>
   </aside>

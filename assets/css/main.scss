@@ -127,3 +127,8 @@ nav {
   align-items: center;
   flex-direction: column;
 }
+
+pre.code {
+  @extend .ps-4;
+  border-left: 1px solid white;
+}
