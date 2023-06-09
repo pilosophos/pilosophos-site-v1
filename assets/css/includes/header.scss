@@ -20,14 +20,12 @@
       width: fit-content;
   
       h1 {
-        font-family: Arial, Helvetica, sans-serif;
         font-weight: 900;
         margin-bottom: 0;
       }
   
       .tagline {
-        font-weight: 375;
-        text-transform: uppercase;
+        font-family: $font-family-monospace;
         margin-bottom: 0;
       }
     }
