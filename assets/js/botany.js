@@ -45,6 +45,8 @@ class Botany extends HTMLDivElement {
   }
 
   async renderPlant(plant) {
+    this.innerHTML = "";
+
     const art = await this.fetchPlantArt(plant.species, plant.stage, plant.is_dead);
 
     const template = document.getElementById(this.getAttribute("template"));
