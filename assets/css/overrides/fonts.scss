@@ -9,6 +9,11 @@
   size-adjust: 110%;
 }
 
+@font-face {
+  font-family: "DOSV JPN24";
+  src: url($dosvjpn-font-url);
+}
+
 $font-family-base: "NEC",
   // Cross-platform generic font family (default user interface font)
   system-ui,
@@ -27,6 +32,6 @@ $font-family-base: "NEC",
   sans-serif,
   // Emoji fonts
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-$font-family-monospace: "Terminus", monospace;
+$font-family-monospace: "DOSV JPN24", monospace;
 $font-family-ascii-art: "NEC", monospace;
 $font-size-base: 1rem;
