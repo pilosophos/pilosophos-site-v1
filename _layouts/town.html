@@ -12,7 +12,7 @@
   {% include header.html %}
 
   {% if site.url == "https://tilde.town" or jekyll.environment == "development" %}
-    {{ content }}
+    <main class="container">{{ content }}</main>
   {% else %}
     <main class="container">
       <h2>

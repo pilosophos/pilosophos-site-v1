@@ -3,6 +3,8 @@ title: Pilosophos' Circle
 collections:
     writing:
         output: true
+    software:
+        output: true
 
 sass:
     load_paths:

@@ -43,6 +43,10 @@ a {
   }
 }
 
+main > div > section, main > section {
+  @extend .mb-5;
+}
+
 .lead {
   font-family: "Terminus";
 }
