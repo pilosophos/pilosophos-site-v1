@@ -12,7 +12,7 @@ layout: default
   {% for program in site.software %}
     <li>
       <a href="{{ program.url | relative_url }}" class="icon-link">
-        <img src="{{ '/assets/images/icons/appwizard-2.png' | relative_url }}" role="presentation" class="icon-32">
+        <img src="{{ program.icon | relative_url }}" role="presentation" class="icon-32">
       </a>
       <div>
         <a href="{{ program.url | relative_url }}">{{ program.title }}</a>
