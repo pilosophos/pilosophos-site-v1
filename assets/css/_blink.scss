@@ -2,12 +2,12 @@
   animation: blinker 4s linear infinite;
 }
 
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
+.hard-blink {
+    animation: hard-blinker 1.5s step-start infinite;
+}
 
-  70% {
+@keyframes hard-blinker {
+  50% {
     opacity: 0;
   }
 }

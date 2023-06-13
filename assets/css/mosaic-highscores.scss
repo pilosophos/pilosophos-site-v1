@@ -1,5 +1,53 @@
 .mosaic-highscores {
-  .highscores-table {
+  h2, h3, .lead, .arcade-decoration {
     font-family: "PressStart2P";
+  }
+
+  .arcade-decoration {
+    font-size: 1.5em;
+    width: min(30em, 100%);
+    margin: 0 auto;
+  }
+
+  h3.arcade-decoration {
+    font-size: 2em;
+  }
+
+  .highscores-table {
+    @extend .table;
+    @extend .table-sm;
+    @extend .table-borderless;
+
+    font-family: "PressStart2P";
+    font-size: 1.5em;
+    width: min(30em, 60%);
+    margin: 0 auto;
+
+    thead {
+      background-color: $body-color;
+      color: $body-bg;
+    }
+
+    tbody {
+      .mosaic-highscore-rank {
+        color: cyan;
+      }
+
+      .mosaic-highscore-name {
+        color: orange;
+      }
+
+      .mosaic-highscore-score {
+        color: lime;
+      }
+
+      .mosaic-highscore-lines {
+        color: #ff4c4c;
+      }
+    }
+
+    .mosaic-highscore-score, .mosaic-highscore-lines {
+      text-align: end;
+    }
   }
 }

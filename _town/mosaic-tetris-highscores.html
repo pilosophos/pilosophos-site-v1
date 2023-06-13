@@ -5,22 +5,34 @@ layout: town
 icon: /assets/images/icons/mosaic-tetris.png
 ---
 <div class="mosaic-highscores">
-  <h2>
-    <img src="{{ page.icon | relative_url }}" role="presentation" class="icon-32">
-    tilde.town Mosaic Tetris Highscores
-  </h2>
-  <p class="lead">Mosaic Tetris highscores of tilde.town users are updated here every hour</p>
-  <table class="table highscores-table">
-    <thead><tr>
-      <td>RANK</td>
-      <td>PLAYER</td>
-      <td>SCORE</td>
-      <td>LINES</td>
-    </tr></thead>
-    <tbody id="mosaic-highscores-list" data-json="{{ '/special/town/mosaic_tetris_highscores.json' | relative_url }}">
-      <tr><td colspan="3">JavaScript is required to show highscores!</td></tr>
-    </tbody>
-  </table>
+  <section>
+    <h2>
+      <img src="{{ page.icon | relative_url }}" role="presentation" class="icon-32">
+      tilde.town Mosaic Tetris Highscores
+    </h2>
+    <p class="lead"><a href="{{ '/software/mosaic-tetris.html' | relative_url }}">Mosaic Tetris</a> highscores of tilde.town users are updated here every hour</p>
+  </section>
+
+  <section>
+    <h3 class="text-center arcade-decoration">MOSAIC TETRIS</h3>
+    <p class="arcade-decoration d-flex justify-content-between">
+      <span class="hard-blink">INSERT COIN</span>
+      <span>CREDIT 00</span>
+    </p>
+    <div class="table-responsive">
+      <table class="highscores-table">
+        <thead><tr>
+          <td>RANK</td>
+          <td>PLAYER</td>
+          <td class="mosaic-highscore-score">SCORE</td>
+          <td class="mosaic-highscore-lines">LINES</td>
+        </tr></thead>
+        <tbody id="mosaic-highscores-list" data-json="{{ '/special/town/mosaic_tetris_highscores.json' | relative_url }}">
+          <tr><td colspan="3">JavaScript is required to show highscores!</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
 
   <template id="mosiac-highscore-template">
     <tr class="mosaic-highscore-listitem">
