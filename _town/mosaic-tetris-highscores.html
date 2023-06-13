@@ -10,13 +10,25 @@ icon: /assets/images/icons/mosaic-tetris.png
     tilde.town Mosaic Tetris Highscores
   </h2>
   <p class="lead">Mosaic Tetris highscores of tilde.town users are updated here every hour</p>
-  <ol id="mosaic-highscores-list" data-json="{{ '/special/town/mosaic_tetris_highscores.json' | relative_url }}">JavaScript is required to show highscores!</ol>
+  <table class="table highscores-table">
+    <thead><tr>
+      <td>RANK</td>
+      <td>PLAYER</td>
+      <td>SCORE</td>
+      <td>LINES</td>
+    </tr></thead>
+    <tbody id="mosaic-highscores-list" data-json="{{ '/special/town/mosaic_tetris_highscores.json' | relative_url }}">
+      <tr><td colspan="3">JavaScript is required to show highscores!</td></tr>
+    </tbody>
+  </table>
 
-  <template id="mosiac-highscore-li">
-    <li>
-      <span class="mosaic-highscore-name"></span>
-      <span class="mosaic-highscore-score"></span>
-    </li>
+  <template id="mosiac-highscore-template">
+    <tr class="mosaic-highscore-listitem">
+      <td class="mosaic-highscore-rank"></td>
+      <td class="mosaic-highscore-name"></td>
+      <td class="mosaic-highscore-score"></td>
+      <td class="mosaic-highscore-lines"></td>
+    </tr>
   </template>
   <script src="{{ '/assets/js/mosaic-highscores.js' | relative_url }}"></script>
 </div>

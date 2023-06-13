@@ -3,6 +3,7 @@
 $dosvjpn-font-url: "{{ '/assets/fonts/web_dos-v_re_jpn24.woff' | relative_url }}";
 $terminus-font-url: "{{ '/assets/fonts/Terminus.woff' | relative_url }}";
 $nec-font-url: "{{ '/assets/fonts/Web437_NEC_APC3_8x16.woff' | relative_url }}";
+$pressstart-font-url: "{{ '/assets/fonts/PressStart2P-Regular.ttf' | relative_url }}";
 
 @import "overrides/colors";
 @import "overrides/fonts";
@@ -19,6 +20,7 @@ $nec-font-url: "{{ '/assets/fonts/Web437_NEC_APC3_8x16.woff' | relative_url }}";
 @import "botany";
 @import "homelab";
 @import "index";
+@import "mosaic-highscores";
 @import "writing";
 
 h1, h2, h3, h4, h5, h6 {

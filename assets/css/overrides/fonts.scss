@@ -14,6 +14,11 @@
   src: url($dosvjpn-font-url);
 }
 
+@font-face {
+  font-family: "PressStart2P";
+  src: url($pressstart-font-url);
+}
+
 $font-family-base: "NEC",
   // Cross-platform generic font family (default user interface font)
   system-ui,

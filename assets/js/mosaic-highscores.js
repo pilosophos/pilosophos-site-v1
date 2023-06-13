@@ -2,7 +2,7 @@
   document.addEventListener("DOMContentLoaded", init);
 
   async function init() {
-    const template = document.getElementById("mosiac-highscore-li");
+    const template = document.getElementById("mosiac-highscore-template");
 
     const ol = document.getElementById("mosaic-highscores-list");
     ol.innerHTML = "Loading scores...";
@@ -13,15 +13,23 @@
 
     ol.innerHTML = "";
     
-    for (const scoreData of highscores) {
+    let lastScore = -1;
+    let rank = 0;
+    for (let i=0; i < highscores.length; i++) {
+      const scoreData = highscores[i];
+
+      if (scoreData["Score"] != lastScore) {
+        rank = i + 1;
+      }
+      lastScore = scoreData["Score"];
+
       const templateContent = document.importNode(template.content, true);
-      const li = templateContent.querySelector("li");
+      const li = templateContent.querySelector(".mosaic-highscore-listitem");
       
-      const name = li.querySelector(".mosaic-highscore-name");
-      name.textContent = scoreData["Name"]
-      
-      const score = li.querySelector(".mosaic-highscore-score");
-      score.textContent = scoreData["Score"]
+      li.querySelector(".mosaic-highscore-rank").textContent = rank;
+      li.querySelector(".mosaic-highscore-name").textContent = scoreData["Name"];
+      li.querySelector(".mosaic-highscore-score").textContent = scoreData["Score"];
+      li.querySelector(".mosaic-highscore-lines").textContent = scoreData["Lines"]
 
       ol.append(templateContent);
     }
