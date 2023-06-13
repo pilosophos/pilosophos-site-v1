@@ -21,6 +21,7 @@ $pressstart-font-url: "{{ '/assets/fonts/PressStart2P-Regular.ttf' | relative_ur
 @import "homelab";
 @import "index";
 @import "mosaic-highscores";
+@import "mosaic-tetris";
 @import "writing";
 
 h1, h2, h3, h4, h5, h6 {
@@ -39,7 +40,7 @@ a {
   text-decoration-style: dotted;
 
   &:hover {
-    .icon-32, .icon-16 {
+    .icon-32, .icon-16, .icon-64 {
       position: relative;
       top: -1px;
     }

@@ -4,7 +4,7 @@ description: A Tetris variant where you can put the pieces anywhere and they won
 layout: default
 icon: /assets/images/icons/mosaic-tetris.png
 ---
-<div class="clearfix">
+<div class="mosaic-tetris clearfix">
   <h2>
     <img src="{{ page.icon | relative_url }}" role="presentation" class="icon-32">
     Mosaic Tetris
@@ -29,7 +29,22 @@ icon: /assets/images/icons/mosaic-tetris.png
       <img src="{{ '/assets/images/icons/directory_net_web-3.png' | relative_url }}" role="presentation" class="icon-32">
       Download
     </h3>
-    <p>Get the latest version <a href="https://github.com/pilosophos/mosaic-tetris/releases/latest">on the Github releases page</a> for Linux, Windows, and (possibly) Mac. I don't have a Mac to test it on so the Mac build might be totally broken.</p>
+    <p>You can get the latest version here or from <a href="https://github.com/pilosophos/mosaic-tetris/releases/latest">the Github releases page</a> for Linux, Windows, and (possibly) Mac. I don't have a Mac to test it on so the Mac build might be totally broken.</p>
+
+    <div class="downloads">
+      <a href="https://github.com/pilosophos/mosaic-tetris/releases/latest/download/mosaic-tetris-linux">
+        <img src="{{ '/assets/images/icons/linux.png' | relative_url }}" role="presentation" height="64" class="icon-64">
+        Linux
+      </a>
+      <a href="https://github.com/pilosophos/mosaic-tetris/releases/latest/download/mosaic-tetris-windows.exe">
+        <img src="{{ '/assets/images/icons/windows.png' | relative_url }}" role="presentation" height="64" class="icon-64">
+        Windows
+      </a>
+      <a href="https://github.com/pilosophos/mosaic-tetris/releases/latest/download/mosaic-tetris-mac">
+        <img src="{{ '/assets/images/icons/mac.png' | relative_url }}" role="presentation" height="64" class="icon-64">
+        Mac
+      </a>
+    </div>
   </section>
 
   <section>
