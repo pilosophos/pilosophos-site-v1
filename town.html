@@ -11,14 +11,16 @@ layout: town
   <p class="lead text-center">These are the special goodies only available on the tilde.town version of my site!</p>
 
   <ol class="big-nav">
+    {% for collection_page in site.town %}
     <li>
-      <a href="{{ '/town/botany.html' | relative_url }}" class="icon-link">
-        <img src="{{ '/assets/images/icons/tree-0.png' | relative_url }}" role="presentation" class="icon-32">
+      <a href="{{ collection_page.url | relative_url }}" class="icon-link">
+        <img src="{{ collection_page.icon | relative_url }}" role="presentation" class="icon-32">
       </a>
       <div>
-        <a href="{{ '/town/botany.html' | relative_url }}">Botany</a>
-        <p>Look at my botany plant (and get your own HTML botany widget)</p>
+        <a href="{{ collection_page.url | relative_url }}">{{ collection_page.title }}</a>
+        <p>{{ collection_page.description }}</p>
       </div>
     </li>
+    {% endfor %}
   </ol>
 </div>

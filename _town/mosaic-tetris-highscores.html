@@ -1,0 +1,22 @@
+---
+title: Mosaic Tetris Highscores
+description: See the tilde.town Mosaic Tetris leaderboard
+layout: town
+icon: /assets/images/icons/mosaic-tetris.png
+---
+<div class="mosaic-highscores">
+  <h2>
+    <img src="{{ page.icon | relative_url }}" role="presentation" class="icon-32">
+    tilde.town Mosaic Tetris Highscores
+  </h2>
+  <p class="lead">Mosaic Tetris highscores of tilde.town users are updated here every hour</p>
+  <ol id="mosaic-highscores-list" data-json="{{ '/special/town/mosaic_tetris_highscores.json' | relative_url }}">JavaScript is required to show highscores!</ol>
+
+  <template id="mosiac-highscore-li">
+    <li>
+      <span class="mosaic-highscore-name"></span>
+      <span class="mosaic-highscore-score"></span>
+    </li>
+  </template>
+  <script src="{{ '/assets/js/mosaic-highscores.js' | relative_url }}"></script>
+</div>

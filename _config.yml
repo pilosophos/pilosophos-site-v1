@@ -5,6 +5,8 @@ collections:
         output: true
     software:
         output: true
+    town:
+        output: true
 
 sass:
     load_paths:
