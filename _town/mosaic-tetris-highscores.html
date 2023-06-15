@@ -16,8 +16,8 @@ icon: /assets/images/icons/mosaic-tetris.png
   <section>
     <h3 class="text-center arcade-decoration">MOSAIC TETRIS</h3>
     <p class="arcade-decoration d-flex justify-content-between">
-      <span class="hard-blink">INSERT COIN</span>
-      <span>CREDIT 00</span>
+      <span class="hard-blink" id="insert-coin">INSERT COIN</span>
+      <span>CREDIT <span id="credit-counter">00</span></span>
     </p>
     <div class="table-responsive">
       <table class="highscores-table">
@@ -43,4 +43,5 @@ icon: /assets/images/icons/mosaic-tetris.png
     </tr>
   </template>
   <script src="{{ '/assets/js/mosaic-highscores.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/insert-coin.js' | relative_url }}"></script>
 </div>
