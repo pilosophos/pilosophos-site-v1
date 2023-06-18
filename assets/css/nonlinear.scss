@@ -1,0 +1,37 @@
+---
+---
+.nonlinear {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  row-gap: 5em;
+  column-gap: 5em;
+
+  .text-muted {
+    color: gray;
+  }
+
+  main.node {
+    border: 1px solid black;
+  }
+
+  aside.node {
+    border: 1px dashed black;
+  }
+
+  .node {
+    width: 25rem;
+    // position: absolute;
+    padding: 1rem;
+    justify-self: center;
+    align-self: center;
+
+    .link-list {
+      position: absolute !important; /* Outside the DOM flow */
+      height: 1px; width: 1px; /* Nearly collapsed */
+      overflow: hidden;
+      clip: rect(1px 1px 1px 1px); /* IE 7+ only support clip without commas */
+      clip: rect(1px, 1px, 1px, 1px); /* All other browsers */
+    }
+  }
+}
