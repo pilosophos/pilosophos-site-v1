@@ -9,16 +9,18 @@ layout: default
   </h2>
 
   <ol class="writing-list">
-  {% for piece in site.writing %}
-    <li>
-      <a href="{{ piece.url | relative_url }}" class="icon-link">
-        <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation" class="icon-32">
-      </a>
-      <div>
-        <a href="{{ piece.url | relative_url }}">{{ piece.title }}</a>
-        <p>{{ piece.description }}</p>
-      </div>
-    </li>
+  {% for collection_page in site.writing %}
+    {% if collection_page.list != "unlisted" %}
+      <li>
+        <a href="{{ collection_page.url | relative_url }}" class="icon-link">
+          <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation" class="icon-32">
+        </a>
+        <div>
+          <a href="{{ collection_page.url | relative_url }}">{{ collection_page.title }}</a>
+          <p>{{ collection_page.description }}</p>
+        </div>
+      </li>
+    {% endif %}
   {% endfor %}
   </ol>
 </div>
