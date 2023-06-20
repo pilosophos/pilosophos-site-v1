@@ -64,18 +64,6 @@ main > div > section, main > section {
   height: 16px;
 }
 
-figure {
-  @extend .p-2;
-  
-  display: table;
-
-  figcaption {
-    display: table-caption;
-    caption-side: bottom;
-    text-align: center;
-  }
-}
-
 .text-smallcaps {
   font-variant: small-caps;
 }
@@ -130,11 +118,18 @@ nav {
 .figure {
   @extend .float-md-end;
   @extend .d-md-table;
-  @extend .p-md-3;
+  @extend .ps-md-3;
+  @extend .pb-md-3;
 
   display: flex;
   align-items: center;
   flex-direction: column;
+
+  figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    text-align: center;
+  }
 }
 
 pre.code {
