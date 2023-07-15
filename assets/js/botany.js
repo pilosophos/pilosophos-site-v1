@@ -7,7 +7,7 @@
   DEFAULT_ART_BASE_URL = "https://raw.githubusercontent.com/jifunks/botany/master/art/"
   SECONDS_PER_DAY = 86400;
 
-  class Botany extends HTMLDivElement {
+  class Botany extends HTMLElement {
     constructor() {
       super();
 
@@ -73,5 +73,5 @@
     }
   }
 
-  customElements.define("tilde-botany", Botany, { extends: "div" });
+  customElements.define("tilde-botany", Botany);
 })();
