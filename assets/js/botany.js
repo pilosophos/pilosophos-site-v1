@@ -38,7 +38,11 @@
           "flowering": "3.txt",
           "seed-bearing": "2.txt",
         };
-        fileName = species + artStages[stage];
+        const specialNames = {
+          "venus flytrap": "flytrap",
+          "jade plant": "jadeplant"
+        }
+        fileName = (specialNames[species] ?? species) + artStages[stage];
       }
 
       const res = await fetch(baseUrl + fileName);
