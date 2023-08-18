@@ -12,6 +12,10 @@
 
       display: flex;
       justify-content: center;
+
+      pre {
+        overflow: unset;
+      }
     }
 
     .botany-info {
