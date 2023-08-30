@@ -136,3 +136,35 @@ pre.code {
   @extend .ps-4;
   border-left: 1px solid white;
 }
+
+.header-style-nav {
+  display: flex;
+  align-items: center;
+
+  @extend .justify-content-lg-start;
+  justify-content: center; 
+
+  @extend .mt-lg-0;
+  @extend .mt-3;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1em;
+    row-gap: 1em;
+
+    li {
+      @extend .mx-1;
+      @extend .mx-lg-0;
+      
+      display: block;
+      white-space: nowrap;
+
+      .icon-16 {
+        margin-right: .15em;
+      }
+    }
+  }
+}
