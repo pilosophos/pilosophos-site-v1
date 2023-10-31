@@ -80,14 +80,14 @@ title: Falling rain
 
       for (let i = 0; i < chars.length; i++) {
         let char = chars[i];
-        ctx.globalAlpha = clamp(char.opacity, 0, 1);
+        ctx.globalAlpha = clamp(char.alpha, 0, 1);
         ctx.fillText(char.ascii, char.x, char.y);
         
-        char.opacity -= CHAR_DECAY_RATE;
+        char.alpha -= CHAR_DECAY_RATE;
         char.y += CHAR_FALL_SPEED;
       }
       
-      chars = chars.filter(c => c.opacity >= 0 || c.y < canvas.height);
+      chars = chars.filter(c => c.alpha >= 0 || c.y < canvas.height);
 
       if (frameNbr % CHAR_INTERVAL === 0) {
         for (let i = 0; i < NEW_CHARS_PER_INTERVAL; i++) addChar(chars);
@@ -103,7 +103,7 @@ title: Falling rain
         ascii: AVAILABLE_CHARS[Math.floor(rand * AVAILABLE_CHARS.length)],
         x: Math.random() * canvas.width,
         y: Math.random() * canvas.height - 100,
-        opacity: 1.0,
+        alpha: 1.0,
       });
     }
   </script>
