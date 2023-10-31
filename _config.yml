@@ -7,6 +7,8 @@ collections:
         output: true
     town:
         output: true
+    demos:
+        output: true
 
 sass:
     load_paths:
