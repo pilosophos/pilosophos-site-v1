@@ -35,7 +35,7 @@ function init() {
   document.addEventListener("keydown", (e) => {
   	if (e.key in DIRECTION_KEYBINDS) {
     	let newDirection = DIRECTION_KEYBINDS[e.key];
-    	if (newDirection !== OPPOSITES[lastDirectionInput]) { 
+    	if ((game && game.snake.length === 1) || newDirection !== OPPOSITES[lastDirectionInput]) { 
       	lastDirectionInput = newDirection;
       }
     	
