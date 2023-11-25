@@ -1,19 +1,19 @@
 ---
-title: Software
+title: Demos
 layout: default
 ---
 <div>
   <h2>
     <img src="{{ '/assets/images/icons/appwizard-2.png' | relative_url }}" role="presentation" class="icon-32">
-    Software
+    Demos
   </h2>
-  <p class="lead">Looking for computer art demos? <a href="{{ '/demos.html' | relative_url }}">Click here instead</a>.</p>
+  <p class="lead">Small, self-contained demos of computer art</p>
 
   <ol class="big-nav">
-  {% for program in site.software %}
+  {% for program in site.demos %}
     <li>
-      <a href="{{ program.url | relative_url }}" class="icon-link">
-        <img src="{{ program.icon | relative_url }}" role="presentation" class="icon-32">
+      <a href="{{ collection_page.url | relative_url }}" class="icon-link">
+        <img src="{{ '/assets/images/icons/appwizard-2.png' | relative_url }}" role="presentation" class="icon-32">
       </a>
       <div>
         <a href="{{ program.url | relative_url }}">{{ program.title }}</a>
