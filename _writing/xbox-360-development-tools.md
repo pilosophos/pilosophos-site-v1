@@ -5,6 +5,8 @@ layout: default
 tags: nonfiction
 ---
 ## {{ page.title }}
+<p class="lead">{{ page.description }}</p>
+
 ### Summary
 Most people are advised to download the Xbox 360 SDK, which will also require Visual Studio 2010, to write homebrew in C++. To use C# with XNA, you should also install XNA Game Studio 4.0 Refresh and XNA 4.0 Extensions, which requires Games for Windows Live. Alternatively, a fully open-source C/C++ stack is possible using LibXenon, but the compiled executables are not recognized by Aurora/FreestyleDash and requires booting into Xell to run.
 
@@ -29,7 +31,7 @@ Xbox 360 SDK version 21256.3 <span class="text-muted">(afaik)</span> is the late
 
 If you only plan to develop in C/C++, you can stop installing stuff after this.
 
-* Filetype: `.exe`
+* Filename: `XBOX360_SDK_21256.3.exe`
 * md5: `b329b79db2804e2989688bffbaf49691`
 * sha256: `efec946c7b4436d53a6c41bb6bcff8373387ec97557e92f0ef672c85eadc4bc7`
 
