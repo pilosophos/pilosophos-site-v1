@@ -147,12 +147,14 @@ pre.code {
   @extend .mt-3;
 
   ul {
+    @extend .justify-content-lg-start;
     list-style: none;
     padding-left: 0;
     display: flex;
     flex-wrap: wrap;
     column-gap: 1em;
     row-gap: 1em;
+    justify-content: center;
 
     li {
       @extend .mx-1;
