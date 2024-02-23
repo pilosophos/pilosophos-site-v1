@@ -87,3 +87,8 @@ XNA 4.0 Extensions allows us to compile C# games into `.xex` files that can be r
 9. Copy **the entire contents** of `[project_path]\[project_name]\[project_name]\bin\XDK\Release\` to a new folder in your Xbox 360 <span class="text-muted">(via USB or Xbox 360 Neighborhood)</span>.
   * <span class="text-muted">Since LTCG isn't available for C#, your homebrew's resources are **not** compiled into a single `.xex`, so the other files are necessary for it to run.</span>
 10. Run `default.xex` on your Xbox 360. Your screen should turn a solid light blue <span class="text-muted">(specifically cornflower blue)</span> on a success.
+
+### Developing with open source software
+See <a href="https://free60.org/Development/LibXenon/">https://free60.org/Development/LibXenon/</a> for instructions.
+
+I haven't actually tried this because my interest kinda dropped off after I made a homebrew the "normal" way, but the instructions on there look approachable enough.
