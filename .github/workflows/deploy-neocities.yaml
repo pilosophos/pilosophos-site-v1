@@ -24,6 +24,6 @@ jobs:
         config: _config.yml,_config-neocities.yml
     - name: Deploy to Neocities
       uses: kognise/neocities-deploy-action@v1
-        with:
-          neocities_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          directory: './_site'
+      with:
+        neocities_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+        directory: './_site'
