@@ -16,10 +16,16 @@
 
 document.getElementById("mosaic-tetris-caption").textContent = "Play Mosaic Tetris with this online demo! (You will need a keyboard)"
 
-const wasmFilePath = "{{ '/assets/mosaic-tetris-wasm/mosaic-tetris.wasm' | relative_url }}"
+// {% if site.url == "https://pilosophos.neocities.org/" %}
+    const wasmFilePath = "https://pilosophos.github.io/assets/mosaic-tetris-wasm/mosaic-tetris.wasm";
+    const beepAudio = new Audio("https://pilosophos.github.io/assets/mosaic-tetris-wasm/tetris-block-fall.mp3");
+// {% else %}
+    const wasmFilePath = "{{ '/assets/mosaic-tetris-wasm/mosaic-tetris.wasm' | relative_url }}";
+    const beepAudio = new Audio("{{ '/assets/mosaic-tetris-wasm/tetris-block-fall.mp3' | relative_url }}");
+// {% endif %}
+
 const term = document.getElementById("terminal")
 var width = 42; var height = 22
-const beepAudio = new Audio("{{ '/assets/mosaic-tetris-wasm/tetris-block-fall.mp3' | relative_url }}");
 
 var cx = -1; var cy = -1
 var cursorClass = "cursor-blinking-block"
