@@ -16,7 +16,7 @@
 
 document.getElementById("mosaic-tetris-caption").textContent = "Play Mosaic Tetris with this online demo! (You will need a keyboard)"
 
-// {% if site.url == "https://pilosophos.neocities.org/" %}
+// {% if site.url == "https://pilosophos.neocities.org" %}
     const wasmFilePath = "https://pilosophos.github.io/assets/mosaic-tetris-wasm/mosaic-tetris.wasm";
     const beepAudio = new Audio("https://pilosophos.github.io/assets/mosaic-tetris-wasm/tetris-block-fall.mp3");
 // {% else %}
