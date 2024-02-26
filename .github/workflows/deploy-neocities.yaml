@@ -21,7 +21,7 @@ jobs:
     - name: Build static site
       uses: pilosophos/jekyll-build-action@master
       with:
-        jekyll-config: _config.yml,_config-neocities.yml
+        config: _config.yml,_config-neocities.yml
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
       with:
