@@ -17,10 +17,8 @@
 document.getElementById("mosaic-tetris-caption").textContent = "Play Mosaic Tetris with this online demo! (You will need a keyboard)"
 
 // {% if site.url == "https://pilosophos.neocities.org" %}
-    const wasmFilePath = "https://pilosophos.github.io/assets/mosaic-tetris-wasm/mosaic-tetris.wasm";
     const beepAudio = new Audio("https://pilosophos.github.io/assets/mosaic-tetris-wasm/tetris-block-fall.mp3");
 // {% else %}
-    const wasmFilePath = "{{ '/assets/mosaic-tetris-wasm/mosaic-tetris.wasm' | relative_url }}";
     const beepAudio = new Audio("{{ '/assets/mosaic-tetris-wasm/tetris-block-fall.mp3' | relative_url }}");
 // {% endif %}
 
@@ -211,6 +209,20 @@ document.addEventListener("paste", e => {
 });
 
 const go = new Go();
-WebAssembly.instantiateStreaming(fetch(wasmFilePath), go.importObject).then((result) => {
-    go.run(result.instance);
-});
+
+function base64ToBytes(base64) {
+    const binString = atob(base64);
+    return Uint8Array.from(binString, (m) => m.codePointAt(0));
+}
+
+// THIS IS SUPER IMPORTANT
+// the variable BASE64 is defined in mosaic-tetris-base64.js
+// and must be loaded first.
+//
+// It is just mosaic-tetris.wasm encoded as a base64 string.
+// Neocities doesn't let you upload wasm and requests to neocities returns a
+// CSP header to prevent wasm files from loading via fetch()
+//
+// To generate again, do `cat mosaic-tetris.wasm | base64 -w0 > mosaic-tetris.base64` in bash
+WebAssembly.instantiate(base64ToBytes(BASE64), go.importObject)
+    .then((result) => go.run(result.instance));
