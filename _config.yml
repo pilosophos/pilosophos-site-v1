@@ -11,5 +11,7 @@ collections:
         output: true
 
 sass:
+    style: compressed
+    sass_dir: assets/css
     load_paths:
         - assets/css
