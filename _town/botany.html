@@ -16,18 +16,18 @@ icon: /assets/images/icons/tree-0.png
   <hr>
   <aside>
     <h3>How do I put one on <em>my</em> webpage?</h3>
+    <p><strong>These instructions are for tilde.town users and users of similar pubnixes that have botany on them.</strong></p>
     <details>
       <summary>Click me for instructions</summary>
-
       <p>
         First, symlink your botany save file in <code>~/.botany/[your_username]_plant_data.json</code> to somewhere in your <code>public_html</code> directory. Make sure you can load the file in your brower, and take note of the URL.
       </p>
       <p>
-        Then put this somewhere in your page and change the <code>plant</code> attribute to the URL of your plant's json file. This renders your plant and its info. <span class="text-muted">(You can actually have an unlimited number of these and even point them all to different plants, if you really wanted.)</span>
+        Then put the following code snippet somewhere in your page and change the <code>plant</code> attribute to the URL of your plant's json file. This is where your plant and its info will be rendered. <span class="text-muted">(You can actually have an unlimited number of these and even point them all to different plants if you really wanted.)</span>
         <pre class="code">&lt;tilde-botany plant="[url_of_your_plant_data.json]" template="botany-template"&gt;&lt;/tilde-botany&gt;</pre>
       </p>
       <p>
-        Finally, add the following code to your webpage just before the <code>&lt;body&gt;</code> tag. Any tag that has an attribute like <code>data-show="value"</code> will have its text content replaced by the corresponding value. You can use all of them, or just the ones you want.
+        Finally, add the following code to your webpage just before the <code>&lt;body&gt;</code> tag. The content of the <code>&lt;template&gt;</code> will be rendered onto the <code>&lt;tilde-botany&gt;</code> tag using the script that comes after it. Any tag that has an attribute like <code>data-show="value"</code> will have its text content replaced by the corresponding plant data. You can use all of them, or just the ones you want.
         <pre class="code">
 &lt;template id="botany-template"&gt;
   &lt;pre data-show="art"&gt;&lt;/pre&gt;
