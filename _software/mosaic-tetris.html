@@ -18,8 +18,7 @@ icon: /assets/images/icons/mosaic-tetris.png
         <img src="{{ '/assets/images/mosaic-tetris.png' | relative_url }}" alt="A screenshot of Mosaic Tetris" height="580" width="264">
       </noscript>
       <figcaption id="mosaic-tetris-caption">A screenshot of Mosaic Tetris</figcaption>
-      <script src="{{ '/assets/mosaic-tetris-wasm/mosaic-tetris-base64.js' | relative_url }}"></script>
-      <script src="{{ '/assets/mosaic-tetris-wasm/tcell.js' | relative_url }}"></script>
+      <script async src="{{ '/assets/mosaic-tetris-wasm/tcell.js' | relative_url }}"></script>
     </figure>
 
     <p>The tetrominoes come randomly rotated in the center of the screen.</p>
@@ -34,7 +33,7 @@ icon: /assets/images/icons/mosaic-tetris.png
       <img src="{{ '/assets/images/icons/joystick-2.png' | relative_url }}" role="presentation" class="icon-32">
       Controls
     </h3>
-    <dl class="dl-2" id="controls">
+    <dl class="dl-4" id="controls">
       <div><dt>Move</dt><dd>WASD or arrow keys</dd></div>
       <div><dt>Hard drop</dt><dd>Space</dd></div>
       <div><dt>Quit</dt><dd>Q or Esc or Ctrl+C</dd></div>
