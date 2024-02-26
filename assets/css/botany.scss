@@ -31,4 +31,12 @@
       }
     }
   }
+
+  .botany-harvests {
+    display: table;
+    
+    > tr > td {
+      @extend .pe-3; 
+    }
+  }
 }

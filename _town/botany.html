@@ -14,6 +14,15 @@ icon: /assets/images/icons/tree-0.png
   <tilde-botany plant="{{ '/special/town/pilosophos_plant_data.json' | relative_url }}" template="botany-template" class="botany-plant">JavaScript is required to show this plant!</tilde-botany>
 
   <hr>
+
+  <section class="d-flex flex-column align-items-center">
+    <h3>Harvested plants</h3>
+    <p>A list of my previous plants</p>
+    <tilde-botany-harvests harvest-file="{{ '/special/town/pilosophos_harvest_file.json' | relative_url }}" template="botany-harvest-template" class="botany-harvests">JavaScript is required to show harvested plants!</tilde-botany-harvests>
+  </section>
+
+  <hr>
+
   <aside>
     <h3>How do I put one on <em>my</em> webpage?</h3>
     <p><strong>These instructions are for tilde.town users and users of similar pubnixes that have botany on them.</strong></p>
@@ -69,3 +78,12 @@ icon: /assets/images/icons/tree-0.png
 </template>
 
 <script src="{{ '/assets/js/botany.js' | relative_url }}"></script>
+
+<template id="botany-harvest-template">
+  <tr>
+    <td data-show="description"></td>
+    <td data-show="age"></td>
+    <td data-show="score"></td>
+  </tr>
+</template>
+<script src="{{ '/assets/js/botany-harvest.js' | relative_url }}"></script>

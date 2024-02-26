@@ -52,6 +52,9 @@
     async renderPlant(plant) {
       this.innerHTML = "";
 
+      plant.score = Math.round(plant.score);
+      plant.age = plant.age.replaceAll(":", " ");
+
       const art = await this.fetchPlantArt(plant.species, plant.stage, plant.is_dead);
 
       const template = document.getElementById(this.getAttribute("template"));
