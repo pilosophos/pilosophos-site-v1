@@ -4,5 +4,16 @@
   .badges {
     @extend .text-md-end;
     text-align: center;
+    display: flex;
+    justify-content: end;
+
+    > div {
+      @extend .gap-2;
+
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      width: min-content;
+      margin-bottom: auto;
+    }
   }
 }
