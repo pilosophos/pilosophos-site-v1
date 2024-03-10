@@ -22,8 +22,9 @@ jobs:
       uses: pilosophos/jekyll-build-action@master
       with:
         config: _config.yml,_config-neocities.yml
-    - name: Deploy to Neocities
-      uses: kognise/neocities-deploy-action@v1
+    - name: Deploy to neocities
+      uses: bcomnes/deploy-to-neocities@v1
       with:
-        neocities_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        directory: './_site'
+        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+        cleanup: false
+        dist_dir: './_site'
