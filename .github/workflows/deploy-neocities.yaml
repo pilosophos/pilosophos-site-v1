@@ -22,9 +22,11 @@ jobs:
       uses: pilosophos/jekyll-build-action@master
       with:
         config: _config.yml,_config-neocities.yml
+    - name: Remove banned file types
+      run: find . ! -regex '.*/*.\(apng\|asc\|atom\|avif\|bin\|css\|csv\|dae\|eot\|epub\|geojson\|gif\|gltf\|gpg\|htm\|html\|ico\|jpeg\|jpg\|js\|json\|key\|kml\|knowl\|less\|manifest\|map\|markdown\|md\|mf\|mid\|midi\|mtl\|obj\|opml\|osdx\|otf\|pdf\|pgp\|pls\|png\|rdf\|resolveHandle\|rss\|sass\|scss\|svg\|text\|toml\|tsv\|ttf\|txt\|webapp\|webmanifest\|webp\|woff\|woff2\|xcf\|xml\|yaml\|yml\)' -type f -delete
     - name: Deploy to neocities
-      uses: pilosophos/deploy-to-neocities@master
+      uses: bcomnes/deploy-to-neocities@v1
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: true
+        cleanup: false
         dist_dir: './_site'
