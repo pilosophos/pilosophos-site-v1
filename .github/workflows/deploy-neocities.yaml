@@ -23,7 +23,7 @@ jobs:
       with:
         config: _config.yml,_config-neocities.yml
     - name: Remove banned file types
-      run: find ./_site ! -regex '.*/*.\(apng\|asc\|atom\|avif\|bin\|css\|csv\|dae\|eot\|epub\|geojson\|gif\|gltf\|gpg\|htm\|html\|ico\|jpeg\|jpg\|js\|json\|key\|kml\|knowl\|less\|manifest\|map\|markdown\|md\|mf\|mid\|midi\|mtl\|obj\|opml\|osdx\|otf\|pdf\|pgp\|pls\|png\|rdf\|resolveHandle\|rss\|sass\|scss\|svg\|text\|toml\|tsv\|ttf\|txt\|webapp\|webmanifest\|webp\|woff\|woff2\|xcf\|xml\|yaml\|yml\)' -type f -delete
+      run: sudo find ./_site ! -regex '.*/*.\(apng\|asc\|atom\|avif\|bin\|css\|csv\|dae\|eot\|epub\|geojson\|gif\|gltf\|gpg\|htm\|html\|ico\|jpeg\|jpg\|js\|json\|key\|kml\|knowl\|less\|manifest\|map\|markdown\|md\|mf\|mid\|midi\|mtl\|obj\|opml\|osdx\|otf\|pdf\|pgp\|pls\|png\|rdf\|resolveHandle\|rss\|sass\|scss\|svg\|text\|toml\|tsv\|ttf\|txt\|webapp\|webmanifest\|webp\|woff\|woff2\|xcf\|xml\|yaml\|yml\)' -type f -delete
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
       with:
