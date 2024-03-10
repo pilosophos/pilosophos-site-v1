@@ -23,7 +23,7 @@ jobs:
       with:
         config: _config.yml,_config-neocities.yml
     - name: Deploy to neocities
-      uses: pilosophos/deploy-to-neocities
+      uses: pilosophos/deploy-to-neocities@master
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
         cleanup: false
