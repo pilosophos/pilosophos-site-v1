@@ -12,13 +12,23 @@ layout: default
   <ol class="big-nav">
   {% for program in site.software %}
     <li>
-      <a href="{{ program.url | relative_url }}" class="icon-link">
-        <img src="{{ program.icon | relative_url }}" role="presentation" class="icon-32">
-      </a>
-      <div>
-        <a href="{{ program.url | relative_url }}">{{ program.title }}</a>
-        <p>{{ program.description }}</p>
-      </div>
+      {% if program.realurl %}
+        <a href="{{ program.realurl }}" class="icon-link">
+          <img src="{{ program.icon | relative_url }}" role="presentation" class="icon-32">
+        </a>
+        <div>
+          <a href="{{ program.realurl }}">{{ program.title }}</a>
+          <p>{{ program.description }}</p>
+        </div>
+      {% else %}
+        <a href="{{ program.url | relative_url }}" class="icon-link">
+          <img src="{{ program.icon | relative_url }}" role="presentation" class="icon-32">
+        </a>
+        <div>
+          <a href="{{ program.url | relative_url }}">{{ program.title }}</a>
+          <p>{{ program.description }}</p>
+        </div>
+      {% endif %}
     </li>
   {% endfor %}
   </ol>
