@@ -1,5 +1,5 @@
 .blink {
-  animation: blinker 4s linear infinite;
+  animation: blinker 4s cubic-bezier(.55,.06,.68,.19) infinite;
 }
 
 .hard-blink {
