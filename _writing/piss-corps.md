@@ -33,9 +33,9 @@ God, how do I start this thing? I haven't had a diary since I was a kid. Am I su
 
 You know sometimes you see those published diaries by people who are all long dead? Maybe on my deathbed I'll give someone the password to this thing and everyone in the future can read about my shitty life a hundred years later. That's not an exaggeration by the way. My life really is shitty.
 
-About two months ago, I got reassigned to the Piss Corps by Boss Li because of a *liiiiittle* mistake of losing a key of coke on a run. Okay? Mistakes happen. So now of all the stinking duties I have to be stuck with, of course it's going to be my piss-poor luck that I'm stuck with the Piss Corp.
+About two months ago, I got reassigned to the Piss Corps by Boss Li because of a *liiiiittle* mistake of losing a key of coke on a run. Okay? Mistakes happen. So now of all the stinking duties I have to be stuck with, of course it's going to be my piss-poor luck that I'm stuck with the Piss Corps.
 
-What the fuck do we do? Basically we spend all day scouting construction sites for Porta-potties, tracking big trucks with septics tanks around until we think they're full, and highjack them. Then we drive them over to wherever Jerry says to, and unload all the piss and shit into another septic tank. God knows what the point of all that is.
+What the fuck do we do? Basically we spend all day scouting construction sites for Porta-potties, tracking big trucks with septics tanks around until we think they're full, and hijack them. Then we drive them over to wherever Jerry says to, and unload all the piss and shit into another septic tank. God knows what the point of all that is.
 
 I tried asking Jerry what it's all supposed to be used for, but he wouldn't give me a straight answer. "Mind your business and do your job," he said. That's what he always says. Try to ask him anything― "How's it going?" or "Where are you from?" or "Where's the train station?"― and all he'll say is "Mind your business" or "Do your job" or both.
 
