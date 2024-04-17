@@ -45,7 +45,7 @@ I tried asking Nybble, the guy who hacks the traffic cameras and stuff on our ru
 
 He's never shown his face either. I bet he's got a super punchable face, you know what I mean? The kind of face you take one look at and are instantly compelled to see fist meet nose. And I bet he has no idea what we do with this stuff either.
 
-Rathead doesn't know but at least he's not a dick about it. He's a chill dude. He lets you borrow his lighter, and if you ask nicely he'll drive the truck if you're feeling it. But he's kind of wack-job though.
+Rathead doesn't know but at least he's not a dick about it. He's a chill dude. He lets you borrow his lighter, and if you ask nicely he'll drive the truck if you're not feeling up to it. But he's kind of wack-job though.
 
 This one time we were playing Poker with Maddis and JC in the back room of Boss Li's Mahjong parlor, and out of the blue he jumps out of his chair shouting "Eureka!" and starts putting Pizza Rolls on one of those personal-sized frozen pizzas. It was his turn to bet.
 
