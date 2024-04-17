@@ -47,7 +47,7 @@ He's never shown his face either. I bet he's got a super punchable face, you kno
 
 Rathead doesn't know but at least he's not a dick about it. He's a chill dude. He lets you borrow his lighter, and if you ask nicely he'll drive the truck if you're not feeling up to it. But he's kind of wack-job though.
 
-This one time we were playing Poker with Maddis and JC in the back room of Boss Li's Mahjong parlor, and out of the blue he jumps out of his chair shouting "Eureka!" and starts putting Pizza Rolls on one of those personal-sized frozen pizzas. It was his turn to bet.
+This one time we were playing Poker with Maddis and JC in the back room of Boss Li's Mahjong parlor, and out of the blue his chair clatters onto the floor and he's shouting "Eureka!" and starts putting Pizza Rolls on one of those personal-sized frozen pizzas. It was his turn to bet.
 
 That's not the end of it either. After taking it out of the toaster oven and about two minutes of eating this monstrosity, he leaps out of his chair *again* and comes back with a can of pineapple giggling like a madman. As he's dumping canned pineapple on his Pizza Roll pizza, he's all slack-jawed and looking in amazement like he's invented something revolutionary. He takes one bite and goes, "Duuuuude... this is gonna take over the world!!!"
 
