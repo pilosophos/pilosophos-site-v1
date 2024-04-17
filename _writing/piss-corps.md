@@ -21,7 +21,7 @@ tags: fiction
           and entered into evidence by Agent Rosenthal.
     -- Original filesystem stat --
     File: my_diary.diary    (regular file)
-    Size: 214 kB    Blocks: 418     IO Block: 4095
+    Size: 214 kB    Blocks: 418     IO Block: 4096
     Device: 1,3     Inode: 56701968     Links: 1
     Access (0644/-rw-r--r--)    Uid: ( 1000/kat)    Gid: ( 1000/kat)
 </code></pre>
