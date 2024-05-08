@@ -69,7 +69,7 @@ I learned today that Rathead doesn't like dark tunnels. Can't fucking stand them
 
 I thought now would be the right time for him to light up, but today of all days he forgot his lighter at home. I thought he carried it everywhere, like it was his life force or something.
 
-I tried getting him to calm down and all that, but after five minutes of his nervous trembling and mumbling about how we're all fucked, I started to lose it myself and gave him a big slap. I thought maybe a sudden hit like that would reboot his system, but this only made things worse because he his mumbling turned to howling and I started really regretting my life choices. He told me later on, "What kind of fuckin' idiot thinks that shit would work?"
+I tried getting him to calm down and all that, but after five minutes of his nervous trembling and mumbling about how we're all fucked, I started to lose it myself and gave him a big slap. I thought maybe a sudden hit like that would reboot his system, but this only made things worse because his mumbling turned to howling and I started really regretting my life choices. He told me later on, "What kind of fuckin' idiot thinks that shit would work?"
 
 Ten minutes after that I'd started to plead. "Please, would you just pipe down? It's gonna be alright Rathead, you know? You know what I'm talking about? Everything's gonna be fine," I said. I was really grasping at straws here. "Look, Rathead, what's your favorite food? You remember that Pizza Roll pizza you invented? With the pineapple? Imagine that― when you get home you can eat all the damn Pizza Roll abominations you want."
 
