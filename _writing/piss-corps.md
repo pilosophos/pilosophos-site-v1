@@ -101,7 +101,7 @@ Eventually the color had returned to Rathead's face and I asked him why he's so 
 
 I can't imagine ever having any kids, and I've never cared much for my own family either. I didn't know my own mother for long, and when my father wasn't wallowing in self-pity after the divorce, he was busy being the least supportive parent on planet Earth. But sometimes I see how everyone else gets along with their family and wish I had that too. How would my life be different? Would I still be stuck on this shithole of a planet, driving sewage around and hiding in dark tunnels?
 
-When Nybble finally gave us the all clear, we dropped off the sewage and went back to the Mahjong parlor to report back to Boss Li. He dismissed us, except for Nybble, who I hear was chewed out extensively. He fucking deserves it.
+When Nybble finally gave us the all clear, we dropped off the sewage and went back to the Mahjong parlor to report back to Jerry. He dismissed us, except for Nybble, who I hear was chewed out extensively. He fucking deserves it.
 
 Maddis and JC had gone home hours ago, but Mara was still hanging around, apparently still trying to get used to the place. She said she'd passed by Ratman who just wanted to be alone for the night, and asked me what got us so late. So I told her what happened: Nybble fucking up, hiding in a dark tunnel for four hours, and Rathead's mental breakdown. Mara's a good listener. She's always asking all these questions that lead you into different little topics, and she's always so attentive even though I'm sure I was so damn boring to listen to.
 
