@@ -85,7 +85,7 @@ He just sort of did this little nod and slowly he opens his mouth and says, "Pou
 
 "Another one of your inventions?"
 
-"Naw man, Poutine. P-O-U-T-I-N-E. You take fries, right? And you put cheese curds on it. Then you get gravy all over them fries. You *haaave* to try it sometime. Fuckin' delicious."
+"Naw man, Poutine. P-O-U-T-I-N-E. You take fries, right? And you put cheese curds on it. Then you get gravy all over them fries, maybe add a little bacon. You *haaave* to try it sometime. It's fuckin' righteous."
 
 "I've never heard of it."
 
