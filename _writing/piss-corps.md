@@ -65,7 +65,7 @@ I was driving today's sewage truck to the dropoff point with Rathead when we sta
 
 "Okay team, we fucked up," he said as I was driving down the intersection. The only time Nybble calls us a team is when something goes horribly wrong. "We have to get you somewhere the drones can't see you. I'm giving you a new destination."
 
-I learned today that Rathead doesn't like dark tunnels. For four hours Nybble had us holed up in an abandoned tunnel with the truck before we got the all clear. Four goddamn hours trying to keep Rathead from freaking the fuck out. He'd always been a tad claustrophobic, like he'd be all fidgety in the elevator unless he'd had his smokes beforehand. But I never thought I'd see the day when he'd fully lose is marbles in front of me.
+I learned today that Rathead doesn't like dark tunnels. Can't fucking stand them. For four hours Nybble had us holed up in an abandoned tunnel with the truck before we got the all clear. Four goddamn hours trying to keep Rathead from freaking the fuck out. He'd always been a tad claustrophobic, like he'd be all fidgety in the elevator unless he'd had his smokes beforehand. But I never thought I'd see the day when he'd fully lose is marbles in front of me.
 
 Today of all days he forgets his lighter at home. I thought he carried it everywhere, like it was his life force or something.
 
