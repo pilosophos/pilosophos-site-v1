@@ -67,7 +67,7 @@ I was driving today's sewage truck to the dropoff point with Rathead when we sta
 
 I learned today that Rathead doesn't like dark tunnels. Can't fucking stand them. For four hours Nybble had us holed up in an abandoned tunnel with the truck before we got the all clear. Four goddamn hours trying to keep Rathead from freaking the fuck out. He'd always been a tad claustrophobic, like he'd be all fidgety in the elevator unless he'd had his smokes beforehand. But I never thought I'd see the day when he'd fully lose is marbles in front of me.
 
-Today of all days he forgets his lighter at home. I thought he carried it everywhere, like it was his life force or something.
+I thought now would be the right time for him to light up, but today of all days he forgot his lighter at home. I thought he carried it everywhere, like it was his life force or something.
 
 I tried getting him to calm down and all that, but after five minutes of his nervous trembling and mumbling about how we're all fucked, I started to lose it myself and gave him a big slap. I thought maybe a sudden hit like that would reboot his system, but this only made things worse because he his mumbling turned to howling and I started really regretting my life choices. He told me later on, "What kind of fuckin' idiot thinks that shit would work?"
 
