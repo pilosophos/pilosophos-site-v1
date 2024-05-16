@@ -31,7 +31,7 @@ tags: fiction
 
 God, how do I start this thing? I haven't had a diary since I was a kid. Am I supposed to be writing to someone?
 
-You know sometimes you see those published diaries by people who are all long dead? Maybe on my deathbed I'll give someone the password to this thing and everyone in the future can read about my shitty life a hundred years later. That's not an exaggeration by the way. My life really is shitty.
+You know sometimes you see those published diaries by people who are all long dead? Maybe on my deathbed I'll give someone the password to this thing and everyone in the future can read about how shitty my life is on planet Eurydice a hundred years later. By the way, when I say my life is shitty, that's not a metaphor.
 
 About two months ago, I got reassigned to the Piss Corps by Boss Li because of a *liiiiittle* mistake of losing a key of coke on a run. Okay? Mistakes happen. So now of all the stinking duties I have to be stuck with, of course it's going to be my piss-poor luck that I'm stuck with the Piss Corps.
 
@@ -41,7 +41,7 @@ I tried asking Jerry what it's all supposed to be used for, but he wouldn't give
 
 Someone should get him drunk one of these days. I bet he'll say some really dark shit. Maybe he gets off to torture porn or something really fucked up.
 
-I tried asking Nybble, the guy who hacks the traffic cameras and stuff on our runs, what we're collecting all this shit for. But all he did was go, "You really don't know?" and scoff. He thinks he's better than us because he sits in his pajamas pushing buttons while we do all the real work on the street.
+I tried asking Nybble, the jackass who hacks the traffic cameras and stuff on our runs, what we're collecting all this shit for. But all he did was go, "You really don't know?" and scoff. He thinks he's better than us because he sits in his pajamas pushing buttons while we do all the real work on the street. Believe me, if he ever has to come along with us and actually risk his own ass for a change, he'd shit his pants. No question.
 
 He's never shown his face either. I bet he's got a super punchable face, you know what I mean? The kind of face you take one look at and are instantly compelled to see fist meet nose. And I bet he has no idea what we do with this stuff either.
 
@@ -51,9 +51,9 @@ This one time we were playing Poker with Maddis and JC in the back room of Boss 
 
 That's not the end of it either. After taking it out of the toaster oven and about two minutes of eating this monstrosity, he leaps out of his chair *again* and comes back with a can of pineapple giggling like a madman. As he's dumping canned pineapple on his Pizza Roll pizza, he's all slack-jawed and looking in amazement like he's invented something revolutionary. He takes one bite and goes, "Duuuuude... this is gonna take over the world!!!"
 
-The only person who seems to have any ideas about what we're doing with all this shit we steal is the new chick, Mara. She's really nice. Maybe a little too nice for her own good.
+The only person who seems to have any ideas about what we're doing with all this shit we steal is the new chick, Mara. She's really nice. Maybe a little too nice for her own good. She greets everyone when they pass by, she tries to make small talk with randos in the Mahjong parlor to the point Jerry had to tell her to stop, and she can't bluff in poker for shit. If she has a good hand, she scrunches up her little nose every time. I'd really hate to see her in any trouble.
 
-"They're probably selling it, right?" she says, "Like, you know when you flush the toilet it goes into the sewer? There's some facility it goes to and the water gets cleaned and then farms can use it to water crops and stuff." Man, if recycled piss-water is being used to water crops, no wonder food these days tastes like shit.
+"They're probably selling it, right?" she said, "Like, you know when you flush the toilet it goes into the sewer? There's some facility it goes to and the water gets cleaned and then farms can use it to water crops and stuff." Man, if recycled piss-water is being used to water crops, no wonder food these days tastes like shit.
 
 But even if you sell recycled sewage, I can't imagine it's really worth stealing. Who the hell is buying illegal sewage? I tried asking Mara but even she doesn't know. She just shrugged and said, "I'd love to know. Let me know if you find out, alright?"
 
@@ -61,19 +61,19 @@ I'm really curious now. Seriously, who's buying this stuff?
 
 ### 7 January 2078 1:02 AM
 
-I was driving today's sewage truck to the dropoff point with Rathead when we start to hear sirens blaring in the background. Usually it's someone trying to hold up a convenience store, or more likely a lover's quarrel gone out of hand. What *usually* doesn't happen is when the guy who's supposed to be hacking all the traffic cameras starts muttering *"fuck, fuck fuck"* under his breath moments before you hear the sirens.
+I was driving today's sewage truck to the dropoff point with Rathead when we start to hear sirens blaring in the distance. Usually it's someone trying to hold up a convenience store, or someone's husband's had a little too much to drink. What *usually* doesn't happen is when the guy who's supposed to be hacking all the traffic cameras starts muttering *"fuck, fuck fuck"* under his breath moments before you hear the sirens.
 
-"Okay team, we fucked up," he said as I was driving down the intersection. The only time Nybble calls us a team is when something goes horribly wrong. "We have to get you somewhere the drones can't see you. I'm giving you a new destination."
+"Okay team, we fucked up," he said as I was driving down the intersection. The only time Nybble calls us a team is when he does something horribly wrong. "We have to get you somewhere the drones can't see you. I'm giving you a new destination."
 
 I learned today that Rathead doesn't like dark tunnels. Can't fucking stand them. For four hours Nybble had us holed up in an abandoned tunnel with the truck before we got the all clear. Four goddamn hours trying to keep Rathead from freaking the fuck out. He'd always been a tad claustrophobic, like he'd be all fidgety in the elevator unless he'd had his smokes beforehand. But I never thought I'd see the day when he'd fully lose is marbles in front of me.
 
-I thought now would be the right time for him to light up, but today of all days he forgot his lighter at home. I thought he carried it everywhere, like it was his life force or something.
+Today of all days would have been a great time for him to have his smokes, but by some twist of fate he'd left it at home. I thought he carried it everywhere, like it was his life force or something. One time when we were emptying our truck, he thought he dropped his lighter down one of the septic tanks and spent an hour magnet fishing before realizing it was in his pocket the whole time.
 
-I tried getting him to calm down and all that, but after five minutes of his nervous trembling and mumbling about how we're all fucked, I started to lose it myself and gave him a big slap. I thought maybe a sudden hit like that would reboot his system, but this only made things worse because his mumbling turned to howling and I started really regretting my life choices. He told me later on, "What kind of fuckin' idiot thinks that shit would work?"
+I tried getting him to calm down and all that, but after five minutes of his nervous trembling and mumbling about how we're all fucked, I started to lose it myself and gave him a big slap. Right on the face. I thought maybe a sudden hit like that would reboot his system, but this only made things worse because his mumbling turned to howling and I started really regretting my life choices.
 
-Ten minutes after that I'd started to plead. "Please, would you just pipe down? It's gonna be alright Rathead, you know? You know what I'm talking about? Everything's gonna be fine," I said. I was really grasping at straws here. "Look, Rathead, what's your favorite food? You remember that Pizza Roll pizza you invented? With the pineapple? Imagine that― when you get home you can eat all the damn Pizza Roll abominations you want."
+Ten minutes after that I'd broken down myself and started to plead. "Please, would you just pipe down? It's gonna be alright Rathead, you know? You know what I'm talking about? Everything's gonna be fine," I said, eyes wide and breaking into a cold sweat. I was really grasping at straws here. "Look, Rathead, what's your favorite food? You remember that Pizza Roll pizza you invented? With the pineapple? Imagine that― when you get home you can eat all the damn Pizza Roll abominations you want."
 
-In that moment his head slowly turns toward me. He had a face like he'd been drained by a fuckin' vampire, with bags under his beady eyes that made him look like he hadn't slept for a week. But miraculously, from the corners of his mouth, he starts to give this defeated half-smile, even though he's still trembling like a motherfucker.
+Suddenly, his voice cuts off. His head slowly turns toward me. He had a face like he'd been drained by a fuckin' vampire, with bags under his beady eyes that made him look like he hadn't slept for a week. But miraculously, from the corners of his mouth, he starts to give this defeated half-smile, even though he's still trembling like a motherfucker.
 
 So I knew I just had to keep talking. "When we get out of here, I'm gonna get me some pasta with that Cajun cream sauce. That's shit's real good, you know what I'm talking about?"
 
@@ -95,20 +95,20 @@ I thought the "Big Orange" was the city's nickname, like how "Big Apple" is actu
 
 That's all kind of a moot point though, unless you actually think the wormhole is going to reopen in our lifetime. I mean, it's been eight years― you'd think if they were going to open it they'd have done it by now instead of leaving everyone on this side trapped. All the companies that poured countless bags of money colonizing Eurydice must have at least tried it rather than give up on their sizeable investment. And at the very least, every family with someone stuck on the other side of the wormhole would give an arm and a leg just to talk to their children again, so if they could open it up even just a peep, I'm sure we'd know by now.
 
-Eventually the color had returned to Rathead's face and I asked him why he's so sure about it reopening someday.
+He kept reminiscing about all these little things about his home, what his life used be to be, and what he'd do the moment he got back to Earth. Slowly the color returned to his face. He seemed so damn sure he'll be able to go back someday that I just had to ask him why, even if it's so damn unlikely.
 
-"Because it just has to," he said to me, "Because one day, I'm gonna hug little Sonya in my arms again, even if she's all grown up, because that's just the way the world is meant to be."
+"Because it just has to," he said to me, "Because one day, I'm gonna hug little Sonya in my arms again, even if she's all grown up, because that's just the way the world is meant to be. Isn't that enough?"
 
-I can't imagine ever having any kids, and I've never cared much for my own family either. I didn't know my own mother for long, and when my father wasn't wallowing in self-pity after the divorce, he was busy being the least supportive parent on planet Earth. But sometimes I see how everyone else gets along with their family and wish I had that too. How would my life be different? Would I still be stuck on this shithole of a planet, driving sewage around and hiding in dark tunnels?
+I can't imagine ever having any kids, and I've never cared much for my own family either. I didn't know my own mother for long, and when my father wasn't wallowing in self-pity after she left him, he was busy putting down my accomplishments and doubting me every step of the way. But sometimes I see how everyone else gets along with their family and wish I had that too. How would my life be different? Would I still be stuck on this shithole of a planet, driving sewage around and hiding in dark tunnels?
 
 When Nybble finally gave us the all clear, we dropped off the sewage and went back to the Mahjong parlor to report back to Jerry. He dismissed us, except for Nybble, who I hear was chewed out extensively. He fucking deserves it.
 
-Maddis and JC had gone home hours ago, but Mara was still hanging around, apparently still trying to get used to the place. She said she'd passed by Ratman who just wanted to be alone for the night, and asked me what got us so late. So I told her what happened: Nybble fucking up, hiding in a dark tunnel for four hours, and Rathead's mental breakdown. Mara's a good listener. She's always asking all these questions that lead you into different little topics, and she's always so attentive even though I'm sure I was so damn boring to listen to.
+Maddis and JC had gone home hours ago, but Mara was still hanging around, apparently still trying to get used to the place. She said she'd passed by Ratman who just wanted to be alone for the night, and asked me what got us so late. So I told her what happened: Nybble fucking up, hiding in a dark tunnel for four hours, and Rathead's mental breakdown. Mara's a good listener. She's always asking all these questions that lead you into different little topics, and half an hour later you forgot how the conversation even started but it's okay because you're having fun. And she's always so attentive even though I'm sure I was so damn boring to listen to.
 
 "If that happens again, you have to be gentler. Boys need soothing words too," Mara told me, "I think when you asked him about his favorite food, you got him to imagine a future Rathead where he's enjoing poutine safe at home, and it gave him a bit of hope. That's probably what calmed him down."
 
-I wanted to talk with her more, so I asked her if she'd want to grab dinner with me or something if she hadn't eaten yet. But she said she still had something she had to do, and maybe ask again next time.
+I wanted to talk with her more, so I asked her if she'd want to grab dinner with me or something if she hadn't eaten yet. But she said she still had something she had to do. "Ask me again next time," she said.
 
-So I went home alone, swinging by the convenience store on the way, where the windows still haven't been replaced after being smashed in last month. The Cajun cream sauce pasta ready meal costs 50 friggin' Lyra each now, so I just reconstituted the shitty nutrient powder I already had.
+So I went home alone, swinging by the convenience store on the way, where the windows still haven't been replaced after being smashed in last month. The Cajun cream sauce pasta ready meal costs 50 friggin' Lyra each now, so I had to just reconstitute the shitty nutrient powder I had at home. I'm getting real sick of this artificial chocolate flavor. Urgh.
 
 I guess I should head to bed.
