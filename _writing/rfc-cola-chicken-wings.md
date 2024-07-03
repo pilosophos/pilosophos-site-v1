@@ -35,7 +35,7 @@ This recipe could use improvement, as the wings produced are slightly dry (see [
 4. Set stovetop at 400 °F (=high heat).
 5. Pour the mixture of Coca Cola and soy sauce into pan.
 6. Until the mixture has reduced into a thick, syrupy sauce, stir the pan thoroughly every 1 minute.
-7. Press each wing down, on each side, into the sauce-covered pan to sear and caramelize the sauce. ∎
+7. Press each wing down, on each side, into the sauce-covered pan to sear and caramelize the sauce on the wing. ∎
 
 ## Discussion
 ### Chicken produced is slightly dry
