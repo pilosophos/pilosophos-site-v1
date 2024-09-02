@@ -28,9 +28,9 @@ Each pictorial postmark will have a corresponding address where the postmaster w
 
 In countries that allow you to get pictorial postmarks without personally going to a postmaster, the process usually involves two things:
 1. A piece of mail (e.g. postcard) that you want the pictorial postmark to be applied to. This should be addressed to the final recipient (this can even be your own address). It should also have enough postage stamps to be sent from the postmaster's address to the final recipient.
-2. An outer envelope in which (1) should be placed inside. This envelope should have enough postage stamps to be sent from your location to the postmaster's address.
+2. An outer envelope in which you should put mailpiece #1 inside. This envelope should have enough postage stamps to be sent from your location to the postmaster's address.
 
-Depending on country, there may be additional instructions you need to follow:
+Then, you send the outer envelope through the mail. Depending on country, there may be additional instructions you need to follow:
 
 ### Special instructions depending on country
 * [Canada (Canada Post)](#canada-canada-post)
