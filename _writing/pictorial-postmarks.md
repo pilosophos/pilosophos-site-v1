@@ -8,6 +8,11 @@ tags: nonfiction
 # How to get a pictorial postmark
 
 ## What are they?
+<figure class="figure">
+  <img src="{{ 'assets/images/pictorial-postmark-uk.jpg' | absolute_url}}" alt="A pictorial postmark from Fenelon Falls, Ontario, Canada" width="153" height="153">
+  <figcaption>A pictorial postmark from Fenelon Falls, Ontario, Canada</figcaption>
+</figure>
+
 When you send a letter with postage stamps, your country's mail service will stamp over your postage stamps with a postmark, usually with a date on it. This does two things: the date tells you when the postal service collected your outgoing mailpiece, and it also slathers ink on your stamp so it can't be reused (known as stamp canceling).
 
 **Pictorial postmarks** are just fancy postmarks with pictures on them. Usually they commemorate some kind of event, like a county fair, but some are available permanently. Many countries' postal services allow you to get a piece of mail stamped with one of them if you know how to send them in, even if you didn't attend the event.
@@ -19,7 +24,7 @@ Your national postal service will periodically post a bulletin with a catalog of
 * **UK Royal Mail** calls them Handstamps, which can be found from the Postmark Bulletin linked from the [Postmarks page](https://www.royalmail.com/postmarks)
 * **American USPS** customers who want one should google `pictorial postmark <current or previous month> <current year>` because the USPS publishes a new webpage every month (ex. [August 2024](https://about.usps.com/postal-bulletin/2024/pb22657/html/info_008.htm)).
 
-Each pictorial postmark will have a corresponding address where the postmaster will apply the postmark. For example, many UK postmarks are stamped at the London Special Handstamp Centre at `London SHC, Royal Mail, Mount Pleasant, Farringdon Road, LONDON, EC1A 1BB`. Take note of this address.
+Each pictorial postmark will have a corresponding address where the postmaster will apply the postmark. You will need this address. For example, many UK postmarks are stamped at the London Special Handstamp Centre at `London SHC, Royal Mail, Mount Pleasant, Farringdon Road, LONDON, EC1A 1BB`.
 
 In countries that allow you to get pictorial postmarks without personally going to a postmaster, the process usually involves two things:
 1. A piece of mail (e.g. postcard) that you want the pictorial postmark to be applied to. This should be addressed to the final recipient (this can even be your own address). It should also have enough postage stamps to be sent from the postmaster's address to the final recipient.
@@ -44,5 +49,15 @@ Royal Mail must receive your outer envelope *before* the date that the handstamp
 *For more precise details, see the Postmark Bulletin PDF linked from the [Royal Mail Postmarks page](https://www.royalmail.com/postmarks), in the section labelled "FORTHCOMING SPECIAL HANDSTAMPS".*
 </small>
 
+<figure class="d-flex align-items-center ps-3 border-start border-2">
+  <img src="{{ 'assets/images/pictorial-postmark-uk.webp' | absolute_url}}" alt="Example handstamp as it appears in the Postmark Bulletin, with serial number and date." width="153" class="me-3">
+  <figcaption>A handstamp as it appears in the Postmark Bulletin, with serial number and date. The outer envelope needs to be marked with the serial number (15997), the words "Special Handstamp", and be received by Royal Mail before 8 Sep 2024. This particular handstamp is stamped at the London Special Handstamp Centre, so the envelope must be addressed to there.</figcaption>
+</figure>
+
 #### United States (USPS)
-Pictorial postmarks are made available starting on a certain date, and the USPS must receive your outer envelope within the 30 day period following the availability date.
+Pictorial postmarks are made available starting on a certain date, and the USPS must receive your outer envelope within the 30 day period following the availability date. Each postmark will have its own address.
+
+<figure class="d-flex align-items-center ps-3 border-start border-2">
+  <img src="{{ 'assets/images/pictorial-postmark-us.webp' | absolute_url}}" alt="A pictorial postmark from Fenelon Falls, Ontario, Canada" width="546" class="me-3">
+  <figcaption>A pictorial postmark as it appears on the USPS postal bulletin, with date and address. The address starts from "Rollag Station." The outer envelope should be received by USPS by 29 September 2024, 30 days after the availability date.</figcaption>
+</figure>
