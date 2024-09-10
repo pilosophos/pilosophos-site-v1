@@ -51,7 +51,7 @@ This one time we were playing Poker with Maddis and JC in the back room of Boss 
 
 That's not the end of it either. After taking it out of the toaster oven and about two minutes of eating this monstrosity, he leaps out of his chair *again* and comes back with a can of pineapple giggling like a madman. As he's dumping canned pineapple on his Pizza Roll pizza, he's all slack-jawed and looking in amazement like he's invented something revolutionary. He takes one bite and goes, "Duuuuude... this is gonna take over the world!!!"
 
-The only person who seems to have any ideas about what we're doing with all this shit we steal is the new chick, Mara. She's really nice. Maybe a little too nice for her own good. She greets everyone when they pass by, she tries to make small talk with randos in the Mahjong parlor to the point Jerry had to tell her to stop, and she can't bluff in poker for shit. If she has a good hand, she scrunches up her little nose every time. I'd really hate to see her in any trouble.
+The only person who seems to have any ideas about what we're doing with all this shit we steal is the new chick, Mara. She's really nice. Maybe a little too nice for her own good. She greets everyone when they pass by, she tries to make small talk with randos in the Mahjong parlor to the point Jerry had to tell her to stop, and she can't bluff in Poker for shit. If she has a good hand, she scrunches up her little nose every time. I'd really hate to see her in any trouble.
 
 "They're probably selling it, right?" she said, "Like, you know when you flush the toilet it goes into the sewer? There's some facility it goes to and the water gets cleaned and then farms can use it to water crops and stuff." Man, if recycled piss-water is being used to water crops, no wonder food these days tastes like shit.
 
@@ -112,6 +112,22 @@ I wanted to talk with her more, so I asked her if she'd want to grab dinner with
 So I went home alone, swinging by the convenience store on the way, where the windows still haven't been replaced after being smashed in last month. The Cajun cream sauce pasta ready meal costs 50 friggin' Lyra each now, so I had to just reconstitute the shitty nutrient powder I had at home. I'm getting real sick of this artificial chocolate flavor. Urgh.
 
 I guess I should head to bed.
+
+### 12 January 2078 9:45 PM
+
+I can't believe I'm saying this, but I fucking miss Rathead, man. He got Jerry to give him time off to recover from his mental breakdown, so this week I'm stuck running jobs with fucking Maddis.
+
+I rip on Rathead for being a wacky fucking airhead sometimes, but if there's anyone around here's who proper fucking apeshit, it's Maddis. Maddis, as JC puts it, *is mad*. Last week he threw a chair through the window of the Mahjong parlor while Jerry was telling him he needs to be more discreet and stop fucking capping the drivers of every goddamn truck he tries to jack. God knows Jerry can get on your fucking nerves sometimes with his constant nagging to do your job better, but he has a point― if Toilets Inc. has a truck full of shit stolen now and then, it's just business. But if too many of their employees die, the CBA gives them a 2 million Lyra fine and Toilets Inc. starts sending corp security after you.
+
+If there's anything scarier than the cops, it's corp security. Except maybe Maddis.
+
+Maddis is so batshit crazy that even Nybble is willing to stop being a high and mighty piece of shit when it comes to dealing with that psycho. I guess he's afraid Maddis will suddenly fly into a rage and somehow deck him in the mouth through the radio if he so much as breathes into the microphone wrong. I mean, fuck, I'd like to see a cage match between Maddis and Nybble and see his sorry ass get handed to him― but definitely not when I'm within a 100 foot radius of ground zero.
+
+When Maddis *isn't* around, you know Nybble is talking all sorts of shit about him. According to some of the stuff he's dug up, Maddis was dishonorably discharged from the North American Space Force after beating a crewman into a bloody pulp, all for knocking his fucking spoon off the table in the mess hall. He became a drifter in Eurydice after failing to adjust to civilian life on Earth, and ended up regularly sinking what was left of his money at Boss Li's Mahjong tables.
+
+Now, I've never played a game of Mahjong in my life, but I know there's only one reason he wins anything at our Poker games: when you're sat within arm's reach of a menacing 6 foot 4, 250-something pound behemoth with anger issues, you have to let him win a few hands unless you're willing to bet that the two pair in your hand also magically makes your fucking skull indestructible.
+
+We forgot to tell Mara about this aspect of our table etiquette, which upset a delicate balance the first time she played a game with us. Like many, she picked up Maddis' tell almost immediately: he starts looking around the table, giving everyone the fucking evil eye if he's bluffing his ass off. But being an innocent new recruit, she wrongly assumed that Maddis was a normal fucking person, so after hoovering up all of his chips and calling his final, desperate attempt to go all-in with an obviously garbage hand, we could all feel time slowing down as his seething red face contorted into pure, unadulterated rage. Chips jumped off the table as he slammed his gargantuan fists onto its surface, moments before he transformed our game into 52 card pickup by heaving the table across the room, screaming "FUCK YOU, YOU STUPID FUCKING BITCH!"
 
 <aside class="alert alert-warning d-flex align-items-center">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-2" viewBox="0 0 16 16" role="img" aria-label="Warning:">
