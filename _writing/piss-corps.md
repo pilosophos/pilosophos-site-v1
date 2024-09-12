@@ -127,7 +127,31 @@ When Maddis *isn't* around, you know Nybble is talking all sorts of shit about h
 
 Now, I've never played a game of Mahjong in my life, but I know there's only one reason he wins anything at our Poker games: when you're sat within arm's reach of a menacing 6 foot 4, 250-something pound behemoth with anger issues, you have to let him win a few hands unless you're willing to bet that the two pair in your hand also magically makes your fucking skull indestructible.
 
-We forgot to tell Mara about this aspect of our table etiquette, which upset a delicate balance the first time she played a game with us. Like many, she picked up Maddis' tell almost immediately: he starts looking around the table, giving everyone the fucking evil eye if he's bluffing his ass off. But being an innocent new recruit, she wrongly assumed that Maddis was a normal fucking person, so after hoovering up all of his chips and calling his final, desperate attempt to go all-in with an obviously garbage hand, we could all feel time slowing down as his seething red face contorted into pure, unadulterated rage. Chips jumped off the table as he slammed his gargantuan fists onto its surface, moments before he transformed our game into 52 card pickup by heaving the table across the room, screaming "FUCK YOU, YOU STUPID FUCKING BITCH!"
+We forgot to tell Mara about this aspect of our table etiquette, upsetting a delicate balance the first time she played a game with us. Like many, she picked up Maddis' tell almost immediately: he starts looking around the table, giving everyone the fucking evil eye if he's bluffing his ass off. But being an innocent new recruit, she wrongly assumed that Maddis was a normal person, so after hoovering up all of his chips and calling his final, desperate attempt to go all-in with an obviously garbage hand, we could all feel time slowing down as his seething red face contorted into pure, unadulterated rage.
+
+Chips jumped off the table as he slammed his gargantuan fists onto its surface, moments before he transformed our game into 52 card pickup by heaving the table across the room and screaming "FUCK YOU, YOU STUPID FUCKING BITCH!" at the top of his fucking lungs.
+
+Normally, JC runs with Maddis, but with Rathead gone and Jerry making JC show Mara how to maintain the septic tanks, I was stuck with the madman. I tried to volunteer myself as the teacher and maybe spend some quality time with Mara, but for some fucking reason Jerry was pretty insistent that JC do it. "He's got more experience," he said, as if teaching it requires a third-degree black belt or some shit.
+
+Maddis basically spent the entire route to the stakeout location spouting his bullshit politics and saying how Myriam Morgan should be the Chairman of the Eurydicean Council since she's going to get rid of the tiered income tax. He thinks that "it's unfair to everyone who earned their Lyra fair and square." Nevermind the fact that, as members of the fucking mafia, none of us pay income tax, nor is any of our Lyra earned fair *or* square. I sat through his entire fucking spiel trying to keep myself from engaging because, let's face it, people like Maddis cannot be reasoned with.
+
+Not one nanosecond passed after spotting the newly loaded septic truck before Maddis grabs his gun and goes, "I'm going in, you better cover me."
+
+And when I tried to remind him that this is exactly the kind of thing Jerry yelled at him for just last Tuesday, he goes, "Fuck that guy, I'm not gonna sit around for five fucking hours to jack a truck," and bolts out into plain fucking view of the truck driver as he was climbing into the truck cab. Surprised, he shouted something indistinct, and in the next instant, my ears started ringing. Maddis had guaranteed himself another lecture from Jerry.
+
+He had splattered the driver's blood, brains, and skull all over the fucking truck cabin. I watched it all slowly drip from the ceiling into a pool of blood gathering on top of the seats. Each drop disturbed its surface, shimmering in the moonlight. I thought I was gonna be fucking sick.
+
+All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. The embroidered name tag, once white, read *Samuel.*
+
+"You comin'?" he said, planting himself in the driver's side blood pool without a second thought.
+
+I always thought the more you see people killed in front of you, the easier it would be to shrug it off and just move on― to tell myself that, *yeah, people die, you know?* like everyone else in this business.
+
+But no matter how many times I see the blood, I can never stop remembering what it was like the first time.
+
+I was 23. The wormhole had been closed for two and a half years. I used to think I would have become a journalist by then. But instead, I was broke and starving. Before then, I'd never seen a dead body. Not at a funeral, not on the internet, not ever. And before then, I always thought I was a strong person.
+
+I cried that night. Silent tears, laying in bed, until my eyes were raw. I tried to wash out the images with the cheapest, foulest cleaning product that could still be legally called vodka. And yet, every time I see the blood, it's always there.
 
 <aside class="alert alert-warning d-flex align-items-center">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-exclamation-triangle-fill flex-shrink-0 me-2" viewBox="0 0 16 16" role="img" aria-label="Warning:">
