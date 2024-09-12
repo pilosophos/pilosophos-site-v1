@@ -117,7 +117,7 @@ I guess I should head to bed.
 
 I can't believe I'm saying this, but I fucking miss Rathead, man. He got Jerry to give him time off to recover from his mental breakdown, so this week I'm stuck running jobs with fucking Maddis.
 
-I rip on Rathead for being a wacky fucking airhead sometimes, but if there's anyone around here's who proper fucking apeshit, it's Maddis. Maddis, as JC puts it, *is mad*. Last week he threw a chair through the window of the Mahjong parlor while Jerry was telling him he needs to be more discreet and stop fucking capping the drivers of every goddamn truck he tries to jack. God knows Jerry can get on your fucking nerves sometimes with his constant nagging to do your job better, but he has a point― if Toilets Inc. has a truck full of shit stolen now and then, it's just business. But if too many of their employees die, the CBA gives them a 2 million Lyra fine and Toilets Inc. starts sending corp security after you.
+I rip on Rathead for being a wacky fucking airhead sometimes, but if there's anyone around here's who proper fucking apeshit, it's Maddis. Maddis, as JC puts it, *is mad*. Last week he threw a chair through the window of the Mahjong parlor while Jerry was telling him he needs to be more discreet and stop fucking capping the drivers of every goddamn truck he tries to jack. God knows Jerry's constant nagging can get on your fucking nerves sometimes, but he has a point― if Toilets Inc. has a truck full of shit stolen now and then, it's just business. But if too many of their employees die, the CBA gives them a 2 million Lyra fine and Toilets Inc. starts sending corp security after you.
 
 If there's anything scarier than the cops, it's corp security. Except maybe Maddis.
 
