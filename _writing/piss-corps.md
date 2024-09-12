@@ -139,7 +139,7 @@ Not one nanosecond passed after spotting the newly loaded septic truck before Ma
 
 And when I tried to remind him that this is exactly the kind of thing Jerry yelled at him for just last Tuesday, he goes, "Fuck that guy, I'm not gonna sit around for five fucking hours to jack a truck," and bolts out into plain fucking view of the truck driver as he was climbing into the truck cab. Surprised, he shouted something indistinct, and in the next instant, my ears started ringing. Maddis had guaranteed himself another lecture from Jerry.
 
-He had splattered the driver's blood, brains, and skull all over the fucking truck cabin. I watched it all slowly drip from the ceiling into a pool of blood gathering on top of the seats. Each drop disturbed its surface, shimmering in the moonlight. I thought I was gonna be fucking sick.
+He had splattered the driver's blood, brains, and skull all over the fucking truck cabin. I watched it all slowly drip from the ceiling into a pool of blood gathering on top of the seats. Each and every drop sent a ripple through the blood, shimmering in the moonlight. I thought I was gonna be fucking sick.
 
 All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. The embroidered name tag, once white, read *Samuel.*
 
