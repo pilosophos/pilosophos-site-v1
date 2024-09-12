@@ -135,7 +135,7 @@ Normally, JC runs with Maddis, but with Rathead gone and Jerry making JC show Ma
 
 Maddis basically spent the entire route to the stakeout location spouting his bullshit politics and saying how Myriam Morgan should be the Chairman of the Eurydicean Council since she's going to get rid of the tiered income tax. He thinks that "it's unfair to everyone who earned their Lyra fair and square." Nevermind the fact that, as members of the fucking mafia, none of us pay income tax, nor is any of our Lyra earned fair *or* square. I sat through his entire fucking spiel trying to keep myself from engaging because, let's face it, people like Maddis cannot be reasoned with.
 
-Not one nanosecond passed after spotting the newly loaded septic truck before Maddis grabs his gun and goes, "I'm going in, you better cover me."
+Not one nanosecond passed after spotting the newly loaded septic truck before Maddis takes out his sawed-off and goes, "I'm going in, you better cover me."
 
 And when I tried to remind him that this is exactly the kind of thing Jerry yelled at him for just last Tuesday, he goes, "Fuck that guy, I'm not gonna sit around for five fucking hours to jack a truck," and bolts out into plain fucking view of the truck driver as he was climbing into the truck cab. Surprised, he shouted something indistinct, and in the next instant, my ears started ringing. Maddis had guaranteed himself another lecture from Jerry.
 
