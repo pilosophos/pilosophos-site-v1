@@ -141,7 +141,7 @@ And when I tried to remind him that this is exactly the kind of thing Jerry yell
 
 He had splattered the driver's blood, brains, and skull all over the fucking truck cabin. I watched it all slowly drip from the ceiling into a pool of blood gathering on top of the seats. Each and every drop sent a ripple through the blood, shimmering in the moonlight. I thought I was gonna be fucking sick.
 
-All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. His name was embroidered on the shirt. *Samuel.*
+All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. The driver's name was embroidered on the shirt. *Samuel.*
 
 "You comin'?" Maddis said. He planted himself in the driver's side blood pool without a second thought.
 
