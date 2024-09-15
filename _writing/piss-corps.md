@@ -145,13 +145,21 @@ All this while, Maddis was just wiping off the windshield with the truck driver'
 
 "You comin'?" he said, planting himself in the driver's side blood pool without a second thought.
 
-I always thought the more you see people killed in front of you, the easier it would be to shrug it off and just move on― to tell myself that, *yeah, people die, you know?* like everyone else in this business.
+I always thought the more you see people killed in front of you, the easier it would be to shrug it off and just move on― to tell myself that, *yeah, people die, you know?* like everyone else in this business. But no matter how many times I see the blood, I can never stop remembering what it was like the first time.
 
-But no matter how many times I see the blood, I can never stop remembering what it was like the first time.
+I was 23. The wormhole had been closed for two and a half years. I used to think I would have become a journalist by then. But instead, I was broke, starving, and holding a gun to a poor teenage kid who had the misfortune of stumbling upon Boss Li's cocaine operation.
 
-I was 23. The wormhole had been closed for two and a half years. I used to think I would have become a journalist by then. But instead, I was broke and starving. Before then, I'd never seen a dead body. Not at a funeral, not on the internet, not ever. And before then, I always thought I was a strong person.
+Urban exploration, he said. It was his hobby.
 
-I cried that night. Silent tears, laying in bed, until my eyes were raw. I tried to wash out the images with the cheapest, foulest cleaning product that could still be legally called vodka. And yet, every time I see the blood, it's always there.
+He swore he wouldn't tell a soul.
+
+If he didn't get home by midnight his mom would worry.
+
+He winced every time I hesitated to shoot him.
+
+I cried that night. Silent tears, laying in bed, until my eyes were raw.
+
+I tried to wash out the images with the cheapest, foulest cleaning product that could still be legally called vodka. And yet, every time I see the blood, it's always there.
 
 It never goes away.
 
