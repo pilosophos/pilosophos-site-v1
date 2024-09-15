@@ -143,7 +143,7 @@ He had splattered the driver's blood, brains, and skull all over the fucking tru
 
 All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. His name was embroidered on the shirt. *Samuel.*
 
-"You comin'?" he said, planting himself in the driver's side blood pool without a second thought.
+"You comin'?" Maddis said. He planted himself in the driver's side blood pool without a second thought.
 
 I always thought the more you see people killed in front of you, the easier it would be to shrug it off and just move on― to tell myself that, *yeah, people die, you know?* like everyone else in this business. But no matter how many times I see the blood, I can never stop remembering what it was like the first time.
 
