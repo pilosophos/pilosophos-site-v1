@@ -115,9 +115,9 @@ I guess I should head to bed.
 
 ### 12 January 2078 9:45 PM
 
-I can't believe I'm saying this, but I fucking miss Rathead, man. He got Jerry to give him time off to recover from his mental breakdown, so this week I'm stuck running jobs with fucking Maddis.
+I can't believe I'm saying this, but I fuckin' miss Rathead, man. He got Jerry to give him time off to recover from his mental breakdown, so this week I'm stuck running jobs with fucking Maddis.
 
-I rip on Rathead for being a wacky fucking airhead sometimes, but if there's anyone around here's who proper fucking apeshit, it's Maddis. Maddis, as JC puts it, *is mad*. Last week he threw a chair through the window of the Mahjong parlor while Jerry was telling him he needs to be more discreet and stop fucking capping the drivers of every goddamn truck he tries to jack. God knows Jerry's constant nagging can get on your fucking nerves sometimes, but he has a point― if Toilets Inc. has a truck full of shit stolen now and then, it's just business. But if too many of their employees die, the CBA gives them a 2 million Lyra fine and Toilets Inc. starts sending corp security after you.
+I rip on Rathead for being a wacky airhead sometimes, but if there's anyone around here's who proper fucking apeshit, it's Maddis. Maddis, as JC puts it, *is mad*. Last week he threw a chair through the window of the Mahjong parlor while Jerry was telling him he needs to be more discreet and stop fucking capping the drivers of every goddamn truck he tries to jack. God knows Jerry's constant nagging can get on your nerves sometimes, but he has a point― if Toilets Inc. has a truck full of shit stolen now and then, it's just business. But if too many of their employees die, the CBA gives them a 2 million Lyra fine and Toilets Inc. starts sending corp security after you.
 
 If there's anything scarier than the cops, it's corp security. Except maybe Maddis.
 
@@ -135,19 +135,19 @@ Normally, JC runs with Maddis, but with Rathead gone and Jerry making JC show Ma
 
 Maddis basically spent the entire route to the stakeout location spouting his bullshit politics and saying how Myriam Morgan should be the Chairman of the Eurydicean Council since she's going to get rid of the tiered income tax. He thinks that "it's unfair to everyone who earned their Lyra fair and square." Nevermind the fact that, as members of the fucking mafia, none of us pay income tax, nor is any of our Lyra earned fair *or* square. I sat through his entire fucking spiel trying to keep myself from engaging because, let's face it, people like Maddis cannot be reasoned with.
 
-Not one nanosecond passed after spotting the newly loaded septic truck before Maddis takes out his sawed-off and goes, "I'm going in, you better cover me."
+True to form, not one nanosecond passes after spotting the newly loaded septic truck before Maddis takes out his sawed-off and goes, "I'm going in, you better cover me."
 
 And when I tried to remind him that this is exactly the kind of thing Jerry yelled at him for just last Tuesday, he goes, "Fuck that guy, I'm not gonna sit around for five fucking hours to jack a truck," and bolts out into plain fucking view of the truck driver as he was climbing into the truck cab. Surprised, he shouted something indistinct, and in the next instant, my ears started ringing. Maddis had guaranteed himself another lecture from Jerry.
 
-He had splattered the driver's blood, brains, and skull all over the fucking truck cabin. I watched it all slowly drip from the ceiling into a pool of blood gathering on top of the seats. Each and every drop sent a ripple through the blood, shimmering in the moonlight. I thought I was gonna be fucking sick.
+The driver's blood, brains, and skull were splattered all over the fucking truck cabin. I watched it all slowly drip from the ceiling into a pool of blood gathering on top of the seats. Each and every drop sent a ripple through the blood, shimmering in the moonlight. I thought I was gonna be fucking sick.
 
-All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. The driver's name was embroidered on the shirt. *Samuel.*
+All this while, Maddis was just wiping off the windshield with the truck driver's shirt. When he was done, he tossed it aside onto the pavement. The driver's name was embroidered on the shirt. *Samuel,* it said.
 
 "You comin'?" Maddis said. He planted himself in the driver's side blood pool without a second thought.
 
 I always thought the more you see people killed in front of you, the easier it would be to shrug it off and just move on― to tell myself that, *yeah, people die, you know?* like everyone else in this business. But no matter how many times I see the blood, I can never stop remembering what it was like the first time.
 
-I was 23. The wormhole had been closed for two and a half years. I used to think I would have become a journalist by then. But instead, I was broke, starving, and holding a gun to a poor teenage kid who had the misfortune of stumbling upon Boss Li's cocaine operation.
+I was 23. The wormhole had been closed for two and a half years. I used to think I would have become a journalist by then, or a photographer― literally anything else. But instead, I was broke, starving, and holding a gun to a poor teenage kid who had the misfortune of stumbling upon Boss Li's cocaine operation.
 
 Urban exploration, he said. It was his hobby.
 
