@@ -65,7 +65,7 @@ I was driving today's sewage truck to the dropoff point with Rathead when we sta
 
 "Okay team, we fucked up," he said as I was driving down the intersection. The only time Nybble calls us a team is when he does something horribly wrong. "We have to get you somewhere the drones can't see you. I'm giving you a new destination."
 
-I learned today that Rathead doesn't like dark tunnels. Can't fucking stand them. For four hours Nybble had us holed up in an abandoned tunnel with the truck before we got the all clear. Four goddamn hours trying to keep Rathead from freaking the fuck out. He'd always been a tad claustrophobic, like he'd be all fidgety in the elevator unless he'd had his smokes beforehand. But I never thought I'd see the day when he'd fully lose is marbles in front of me.
+I learned today that Rathead doesn't like dark tunnels. Can't fucking stand them. For four hours Nybble had us holed up in an abandoned tunnel with the truck before we got the all clear. Four goddamn hours trying to keep Rathead from freaking the fuck out. He'd always been a tad claustrophobic, like he'd be all fidgety in the elevator unless he'd had his smokes beforehand. But I never thought I'd see the day when he'd fully lose his marbles in front of me.
 
 Today of all days would have been a great time for him to have his smokes, but by some twist of fate he'd left it at home. I thought he carried it everywhere, like it was his life force or something. One time when we were emptying our truck, he thought he dropped his lighter down one of the septic tanks and spent an hour magnet fishing before realizing it was in his pocket the whole time.
 
@@ -105,7 +105,7 @@ When Nybble finally gave us the all clear, we dropped off the sewage and went ba
 
 Maddis and JC had gone home hours ago, but Mara was still hanging around, apparently still trying to get used to the place. She said she'd passed by Rathead who just wanted to be alone for the night, and asked me what got us so late. So I told her what happened: Nybble fucking up, hiding in a dark tunnel for four hours, and Rathead's mental breakdown. Mara's a good listener. She's always asking all these questions that lead you into different little topics, and half an hour later you forgot how the conversation even started but it's okay because you're having fun. And she's always so attentive even though I'm sure I was so damn boring to listen to.
 
-"If that happens again, you have to be gentler. Boys need soothing words too," Mara told me, "I think when you asked him about his favorite food, you got him to imagine a future Rathead where he's enjoing poutine safe at home, and it gave him a bit of hope. That's probably what calmed him down."
+"If that happens again, you have to be gentler. Boys need soothing words too," Mara told me, "I think when you asked him about his favorite food, you got him to imagine a future Rathead where he's enjoying poutine safe at home, and it gave him a bit of hope. That's probably what calmed him down."
 
 I wanted to talk with her more, so I asked her if she'd want to grab dinner with me or something if she hadn't eaten yet. But she said she still had something she had to do. "Ask me again next time," she said.
 
