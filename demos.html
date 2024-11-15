@@ -11,7 +11,8 @@ description: Small, self-contained demos of computer art
   <p class="lead">Small, self-contained demos of computer art</p>
 
   <ol class="big-nav">
-  {% for program in site.demos %}
+  {% assign demos = site.demos | sort: date | reverse %}
+  {% for program in demos %}
     <li>
       <a href="{{ collection_page.url | relative_url }}" class="icon-link">
         <img src="{{ '/assets/images/icons/color_profile.png' | relative_url }}" role="presentation" class="icon-32">
