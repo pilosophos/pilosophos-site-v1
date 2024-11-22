@@ -3,8 +3,8 @@ title: tilde.town transit
 layout: default
 description: Tilde.Town Transit
 ---
-<div>
-  <img src="{{ '/assets/images/tilde-town-transit/carrot-station.png' }}" alt="" class="w-100">
+<div class="tilde-town-transit">
+  <img src="{{ '/assets/images/tilde-town-transit/carrot-station.png' | relative_url }}" alt="" class="w-100">
   <h2>
     <img src="{{ '/assets/images/icons/paint_old-0.png' | relative_url }}" role="presentation" class="icon-32"></img>
     All about tilde.town transit
@@ -96,10 +96,75 @@ description: Tilde.Town Transit
     </h3>
 
     <section>
-      <h4>~pilosophos station</h4>
-      <h4>~nebula station</h4>
-      <h4>spawn station</h4>
-      <h4>~cassii2 station</h4>
+      <section class="clearfix">
+        <h4>~pilosophos station</h4>
+
+        <aside class="infobox">
+          <div class="routes">
+            <h5>Routes at this station</h5>
+            <img src="{{ '/assets/images/tilde-town-transit/1-line-roundel.svg' | relative_url }}" alt="1 Line" class="roundel-small">
+          </div>
+          <dl class="dl-5">
+            <div><dt>Opened</dt> <dd>24 June 2024</dd></div>
+            <div><dt>Platform 1</dt> <dd>1 Line</dd></div>
+          </dl>
+        </aside>
+
+        <p>
+          ~pilosophos station was attached to ~pilosophos' factory after the construction of the ticket office and waiting area. It is the end of the 1 Line, although the track itself extends toward Rail Depot #1 (not accessible under normal service).
+        </p>
+
+        <p>It was opened at the same time as ~nebula station at the opening of the tilde.town transit network, and was the first to be outfitted with an automated sentry turret to deal with monsters spawning at night.</p>
+      </section>
+
+      <section class="clearfix">
+        <h4>~nebula station</h4>
+
+        <aside class="infobox">
+          <div class="routes">
+            <h5>Routes at this station</h5>
+            <img src="{{ '/assets/images/tilde-town-transit/1-line-roundel.svg' | relative_url }}" alt="1 Line" class="roundel-small">
+            <img src="{{ '/assets/images/tilde-town-transit/2-line-roundel.svg' | relative_url }}" alt="2 Line" class="roundel-small">
+            <img src="{{ '/assets/images/tilde-town-transit/teleporter.png' | relative_url }}" alt="Teleporter hub" class="roundel-small">
+          </div>
+          <dl class="dl-5">
+            <div><dt>Opened</dt> <dd>24 June 2024</dd></div>
+            <div><dt>Rebuilt</dt> <dd>22 July 2024</dd></div>
+            <div><dt>Platform 1</dt> <dd>1 Line</dd></div>
+            <div><dt>Platform 2</dt> <dd>2 Line</dd></div>
+            <div><dt>Platform 3</dt> <dd>3 Line (planned)</dd></div>
+          </dl>
+        </aside>
+
+        <p>
+          ~nebula station is situated in the East of the ~nebula industrial complex. The current station structures were built on top of a demolished refinery and power plant. It is the main hub of the tilde.town transit network, and is served by the 1, 2, and the upcoming 3 Lines, and allows transfer to the Teleporter Hub.
+        </p>
+
+        <p>On its grand opening on the 24th of June 2024, ~nebula station was located directly on top of the end of the Townshend Bridge, on the ~nebula side. The station was moved about a month later to its current location.</p>
+      </section>
+
+      <section class="clearfix">
+        <h4>Spawn station</h4>
+
+        <aside class="infobox">
+          <div class="routes">
+            <h5>Routes at this station</h5>
+            <img src="{{ '/assets/images/tilde-town-transit/2-line-roundel.svg' | relative_url }}" alt="2 Line" class="roundel-small">
+          </div>
+          <dl class="dl-5">
+            <div><dt>Opened</dt> <dd>22 July 2024</dd></div>
+            <div><dt>Platform 1</dt> <dd>2 Line</dd></div>
+          </dl>
+        </aside>
+
+        <p>Spawn station is located at the foot of the hill that new players spawn on.</p>
+      </section>
+
+      <section class="clearfix">
+        <h4>~cassii2 station</h4>
+
+        <p>This station is not currently served by any routes, but is planned to be the destination for the 3 Line.</p>
+      </section>
     </section>
   </section>
 </div>
