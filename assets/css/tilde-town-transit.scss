@@ -20,13 +20,20 @@
   .infobox {
     @extend .float-md-end;
     @extend .ms-3;
+    @extend .p-3;
+    @extend .border-top;
+    @extend .border-bottom;
 
-    width: 15rem;
+    width: 20rem;
 
     .routes {
       @extend .mb-3;
 
       text-align: center;
+    }
+
+    >dl {
+      margin-bottom: 0;
     }
   }
 }
