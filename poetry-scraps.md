@@ -7,14 +7,14 @@ layout: default
 <p class="lead">Scraps of mediocre poetry</p>
 
 ### Demon, Demon
-demon, demon
-you've been knocking at my door
-I cannot take my eyes off you
+demon, demon  
+you've been knocking at my door  
+I cannot take my eyes off you  
 or you'll shake me to my core
 
-demon, demon
-I'll sleep with one eye open
-afraid of what you'll bring tomorrow
+demon, demon  
+I'll sleep with one eye open  
+afraid of what you'll bring tomorrow  
 nothing's what I'm hopin'
 
 ### Untitled 1
