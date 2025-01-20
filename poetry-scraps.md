@@ -9,7 +9,7 @@ layout: default
 ### Demon, Demon
 demon, demon  
 you've been knocking at my door  
-I cannot take my eyes off you  
+I dare not take my eyes off you  
 or you'll shake me to my core
 
 demon, demon  
