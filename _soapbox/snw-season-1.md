@@ -1,18 +1,15 @@
 ---
-title: Soapbox
-description: A page full of my half-baked opinions
-layout: writing
-tags: nonfiction opinion
+title: 'Star Trek: Strange New Worlds, Season 1'
+description: 'My half-baked opinions on Star Trek: Strange New Worlds, Season 1'
+layout: soapbox
+tags: ['TV', 'Star Trek']
 ---
-# Soapbox
-In an attempt to practice expressing my opinions more, I've created this page to store all my half-baked opinions about things.
-
-## Star Trek: Strange New Worlds, Season 1
+# Star Trek: Strange New Worlds, Season 1
 Written 24 January 2025
 
 Some Trekkie friends of mine enthusiastically recommended Strange New Worlds <span class="text-muted">(SNW)</span> to me which, after the horrible disaster that was Discovery, I was hesitant to pick up. I didn't actually start watching it until after finishing Lower Decks and learned that Paramount canned it. What am I supposed to watch now? [The Animated Series](https://memory-alpha.fandom.com/wiki/Star_Trek:_The_Animated_Series)? So SNW it was.
 
-### Story and characters
+## Story and characters
 
 The story of SNW is alright, but its characters― well... I don't think they're quite there yet. I feel like the shock of seeing all these characters from The Original Series <span class="text-muted">(TOS)</span> that now look and sound so different has yet to subside, and I don't know if SNW Spock will ever match up to the platonic ideal of TOS Spock I already have in my brain.
 
@@ -22,7 +19,7 @@ With some of the crew interactions, I feel like the show is trying to sell me on
 
 The upshot is that SNW at least has a better first season overall than most of other Star Trek series. I didn't go "wow, this is crap!" like every time the Kazon appeared in Voyager. SNW has its moments, and matches the tone of Star Trek much, much better than Discovery or Star Trek: Picard. Even when it's deviating from its usual formula, like when the Enterprise crew turns into characters from a children's storybook, it's cute rather than unhinged <span class="text-muted">(*\*cough, cough\** [Fair Haven](https://memory-alpha.fandom.com/wiki/Fair_Haven_(episode)) *\*cough, cough\**)</span>.
 
-### Everything must be shiny
+## Everything must be shiny
 
 What *actually* bothers me is that SNW continues the ugly NuTrek tradition of being really, really shiny. The floor is shiny, every console and control is shiny, and all the lights have to shine directly into the camera. There are *so many* lights. It's like the set designers were Twitch streamers discovering LED light strips for the first time. The walls have lights, the edges of the stairs have lights, and even the *handrails* all have glaringly bright lights built into them.
 

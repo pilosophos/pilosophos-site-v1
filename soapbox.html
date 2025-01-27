@@ -1,13 +1,14 @@
 ---
-title: Writing
+title: Soapbox
 layout: default
-description: I write all kinds of stuff
+description: In an attempt to practice expressing my opinions more, I've created this page to store all my half-baked opinions about things.
 ---
 <div class="writing-index">
   <h2>
     <img src="{{ '/assets/images/icons/winrep-1.png' | relative_url }}" role="presentation">
-    Writing
+    Soapbox
   </h2>
+  <p class="lead">In an attempt to practice expressing my opinions more, I've created this page to store all my half-baked opinions about things.</p>
 
   <ol class="writing-list">
     <li>
@@ -15,14 +16,14 @@ description: I write all kinds of stuff
         <img src="{{ '/assets/images/icons/directory.png' | relative_url }}" role="presentation" class="icon-32">
       </a>
       <div>
-        <a href="{{ '/soapbox.html' | relative_url }}">Soapbox</a>
-        <p>In an attempt to practice expressing my opinions more, I've created the soapbox page to store all my half-baked opinions about things.</p>
+        <a href="{{ '/writing.html' | relative_url }}">Back to writing index</a>
+        <p>Return to the main writing index.</p>
         <div class="small text-muted">
-          Tags: nonfiction, opinion
+          Tags: not soapbox
         </div>
     </li>
 
-    {% for collection_page in site.writing %}
+    {% for collection_page in site.soapbox %}
       {% if collection_page.list != "unlisted" %}
         <li>
           <a href="{{ collection_page.url | relative_url }}" class="icon-link">
