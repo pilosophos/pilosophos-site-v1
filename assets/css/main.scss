@@ -17,6 +17,7 @@ $pressstart-font-url: "{{ '/assets/fonts/PressStart2P-Regular.ttf' | relative_ur
 @import "definition-list";
 @import "tilde-webring";
 
+@import "art";
 @import "botany";
 @import "homelab";
 @import "index";
