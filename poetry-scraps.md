@@ -16,12 +16,12 @@ I wasted an evening with a wistful sigh.
 demon, demon  
 you've been knocking at my door  
 I dare not take my eyes off you  
-or you'll shake me to my core
+cuz' you shake me to my core
 
 demon, demon  
 I'll sleep with one eye open  
 afraid of what you'll bring tomorrow  
-nothing's what I'm hopin'
+followin' where I'm goin'
 
 ### Untitled 1
 feeling like the days will just never seem to end  
