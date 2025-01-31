@@ -1,10 +1,16 @@
 ---
 title: Poetry scraps
-description: Scraps of mediocre poetry
+description: Scraps of mediocre poetry written by yours truly
 layout: default
 ---
 ## Poetry scraps
-<p class="lead">Scraps of mediocre poetry</p>
+<p class="lead">Scraps of mediocre poetry written by yours truly</p>
+
+### Up late
+my silent protest against the night sky
+still unwilling to say goodbye.
+by morning it's noon, and I'll wonder why
+I wasted an evening with a wistful sigh.
 
 ### Demon, Demon
 demon, demon  
