@@ -7,9 +7,9 @@ layout: default
 <p class="lead">Scraps of mediocre poetry written by yours truly</p>
 
 ### Up late
-my silent protest against the night sky
-still unwilling to say goodbye.
-by morning it's noon, and I'll wonder why
+my silent protest against the night sky  
+still unwilling to say goodbye.  
+by morning it's noon, and I'll wonder why  
 I wasted an evening with a wistful sigh.
 
 ### Demon, Demon
