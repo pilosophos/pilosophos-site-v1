@@ -6,6 +6,16 @@ layout: default
 ## Poetry scraps
 <p class="lead">Scraps of mediocre poetry written by yours truly</p>
 
+### Demon, Demon 2
+feeling like the sky is falling
+never know when god is calling
+put your hands up to the air
+and pray that judgement day is fair
+
+demon, demon calling on your horsemen four
+farewell children, it's the end
+I'll be gone forever more
+
 ### Up late
 my silent protest against the night sky  
 still unwilling to say goodbye.  
