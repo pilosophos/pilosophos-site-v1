@@ -6,6 +6,27 @@ layout: default
 ## Poetry scraps
 <p class="lead">Scraps of mediocre poetry written by yours truly</p>
 
+### Bliss
+Adobe CS3
+plus sketchy license key.
+Chiptune sets you free.
+
+Letters to your friends,
+fingers dancing upon keys.
+Would you like some help?
+
+Shooting stars stream down
+wond'rous sights before your eyes.
+Netscape Navigator.
+
+Faces from childhood
+come and go so all that's left:
+"Please like and subscribe."
+
+Hardhat, jackhammer,
+penguins waddling without a care.
+Where's our iceberg now?
+
 ### Demon, Demon 2
 feeling like the sky is falling
 never know when god is calling
