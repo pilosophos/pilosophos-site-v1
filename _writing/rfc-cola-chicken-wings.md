@@ -15,7 +15,7 @@ This recipe could use improvement, as the wings produced are slightly dry (see [
 * 30 mL vegetable oil
 * 4 whole chicken wings
 * 320 mL Coca Cola, or Coca Cola Spiced Raspberry (see [§Discussion](#discussion))
-* 60 mL all-purpose soy sauce
+* 40 mL all-purpose soy sauce
 
 ### Cooking utensils
 * 1 stovetop
@@ -24,7 +24,7 @@ This recipe could use improvement, as the wings produced are slightly dry (see [
 
 ## Instructions
 ### Before cooking
-1. Create a mixture of all 320 mL Coca Cola and 60 mL of soy sauce.
+1. Create a mixture of all 320 mL Coca Cola and 40 mL of soy sauce.
 2. (Optional) separate drumettes from the rest of the wing.
   * This will allow for better sauce coverage during cooking.
 
